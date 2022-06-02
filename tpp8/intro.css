@@ -42,7 +42,7 @@
 }
 
 #background-video-banner {
-    height: 15.3%;
+    height: 25vh;
     width: 100%;
     object-fit: cover;
     position: absolute;
@@ -551,7 +551,7 @@
 
 .T-agimmo-contact {
     width: 27%;
-    height: 80%;
+    height: 90%;
     color: rgb(192, 192, 26);
     background-color:rgb(7, 7, 97);
     margin-left: 3%;
