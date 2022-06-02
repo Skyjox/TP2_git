@@ -924,9 +924,7 @@ $(document).ready(function(){
       $("#sun").click(function(){
          if ($("body").hasClass("dark")){
              $("body").removeClass("dark");
-             $(".bglinear").removeClass("dark");            
              $("#llogo").attr('src','../logoDM-removebg-preview.png');
-             $(".l_lille").removeClass('golden');
              $("#sun").removeClass('moon');
              $("#sun").attr('src','../js/soleil-removebg-preview.png');
              $('.menu').removeClass("menu-dark");
