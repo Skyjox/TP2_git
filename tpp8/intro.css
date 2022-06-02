@@ -1935,4 +1935,16 @@ a{
        margin-top: -6.5rem;
        margin-left: -3.5rem;
    }
+
+   .T-agimmo-contact {
+    width: 27%;
+    height: 90%;
+    color: rgb(192, 192, 26);
+    background-color:rgba(7, 7, 97,0);
+    margin-left: 3%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    margin-top: 3rem;
+}
 }
