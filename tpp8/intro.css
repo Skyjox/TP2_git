@@ -1,6 +1,6 @@
 .full-page {
     width: 100%;
-    height: 130vh;
+    height: 210vh;
     display: flex;
     flex-direction: column;
     position: absolute;
@@ -9,7 +9,7 @@
 
 .banner {
     width: 100%;
-    height: 20%;
+    height: 25%;
     background-color: rgba(255,255,255,0.4);
     display: flex;
     align-items: center;
@@ -831,6 +831,82 @@
     font-family: infinity;
     src: url("Beyond_Infinity_Demo.ttf");
 }
+
+/*footer*/
+/* footer */
+@font-face {
+    font-family: Kugile;
+    src: url("../Ben/kugile.regular.ttf");
+  }
+  footer {
+    width: 100%;
+    background: #041626;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: "Kugile", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  }
+
+  footer a {
+    color: #c29b40;
+  }
+
+  #footerBody {
+    width: 80%;
+    min-height: 400px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border-bottom: 1px solid #c29b40;
+  }
+
+  .log img {
+    width: 150px;
+  }
+
+  .log p {
+    font-family: "Kugile", serif;
+    font-size: x-large;
+  }
+
+  .res ul {
+    list-style-type: none;
+  }
+
+  .res li img {
+    width: 80px;
+  }
+
+  .propos,
+  .kyo {
+    width: 300px;
+    height: 300px;
+  }
+
+  .propos h4,
+  .kyo h4 {
+    margin: 20px 0;
+  }
+
+  .propos li,
+  .kyo li {
+    margin: 20px 0;
+    font-weight: lighter;
+  }
+
+  .propos li:hover,
+  .kyo li:hover {
+    font-weight: normal;
+  }
+
+  .mentleg {
+    width: 80%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+  }
+/*footer*/
 
 @media only screen and (min-width: 280px) and (max-width: 327px) {
   /*haut de page*/
@@ -1885,7 +1961,7 @@
 	color: #F5DCB7;
 	font-size: 6vh;
 	font-weight: bold;
-    font-family: beyond, Arial, Helvetica, sans-serif;
+    font-family: "infinity", Arial, Helvetica, sans-serif;
 }
 .lieuxdm{
     color:#C29B40 !important;
@@ -1932,8 +2008,10 @@ a{
 
    #logo2 {
        z-index: 1;
-       margin-top: -6.5rem;
+       margin-top: -1.5rem;
        margin-left: -3.5rem;
+       width: 400px;
+       height: 400px;
    }
 
    .T-agimmo-contact {
@@ -1947,4 +2025,15 @@ a{
     flex-direction: column;
     margin-top: 3rem;
 }
+
+.banner {
+    width: 100%;
+    height: 25vh;
+    background-color: rgba(255,255,255,0.4);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
 }
