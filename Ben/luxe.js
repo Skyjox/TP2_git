@@ -19,7 +19,6 @@ $(document).ready(function () {
     mouseY = e.pageY;
     traX = (4 * mouseX) / 570 + 40;
     traY = (4 * mouseY) / 570 + 50;
-    console.log(traX);
     $(".atitle").css({ "background-position": traX + "%" + traY + "%" });
   });
   $("#sun").click(function () {
@@ -44,7 +43,8 @@ $(document).ready(function () {
       $("#txtb8").removeClass("txtdm");
       $("#txtb9").removeClass("txtdm");
       $("#txtb10").removeClass("txtdm");
-    } else {
+    } 
+    else {
       $("body").addClass("dark");
       $(".bglinear").addClass("dark");
       $("#llogo").attr("src", "../img/logoDM-removebg-preview-copie.png");
