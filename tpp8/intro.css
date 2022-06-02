@@ -1682,17 +1682,10 @@
     background-color: #252424 !important;
 }
 
-.bglinear{
-    background: linear-gradient(0deg, #062540, #1B578C, #66E4F2);
-    width:100%;
-}
 .menu-dark{
     background:linear-gradient(180deg,#252424,#252424,#252424,#252424)!important; 
 }
-.lvdm{
-    background:linear-gradient(180deg,#252424,#252424,#252424,#252424)!important; 
 
-}
 .dark{
     background:linear-gradient(180deg, #252424, #252424,#252424, #252424,#252424); 
 }
@@ -1719,4 +1712,17 @@
 a{
     text-decoration: none;
     color: #C29B40;
+}
+
+@media screen and (min-width: 1440px) and (max-width: 1550px) {
+   #slider {
+       display: flex;
+       justify-content: center;
+   }
+
+   #logo2 {
+       z-index: 1;
+       margin-top: -6.5rem;
+       margin-left: -3.5rem;
+   }
 }
