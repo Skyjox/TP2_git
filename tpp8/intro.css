@@ -1696,33 +1696,9 @@
 .dark{
     background:linear-gradient(180deg, #252424, #252424,#252424, #252424,#252424); 
 }
-.lvideo-background{
-    height:100%;
-}
-
-#lvideo{
-    min-height:200vh;
-    width: 100vw;
-    z-index: -12;
-    position:absolute;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size:contain;
-    object-fit: cover;
-}
 
 .moon{
     background-color:#C29B40 !important;
-}
-
-.l_lille{
-    color:#606060;
-    position: absolute;
-    top: 77%;
-    left: 10%;
-    font-size: 10rem;
-    font-family: beyond, Arial, Helvetica, sans-serif;  
-    -webkit-text-stroke:2px #C29B40;
 }
 
 .golden{
@@ -1739,5 +1715,8 @@
     position: absolute;
     left:80%;
     top: 72%;
-
+}
+a{
+    text-decoration: none;
+    color: #C29B40;
 }
