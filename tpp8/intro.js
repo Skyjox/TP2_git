@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 $(document).ready(function(){
    $(".T-imglot2").hide();
    $(".flecheG2").hide();
@@ -980,7 +979,6 @@ $(document).ready(function(){
          prevArrow: false,
        });
 });
-=======
 $(document).ready(function () {
   $(".T-imglot2").hide();
   $(".flecheG2").hide();
@@ -1960,4 +1958,3 @@ $(document).ready(function () {
     prevArrow: false,
   });
 });
->>>>>>> Stashed changes
