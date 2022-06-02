@@ -1713,3 +1713,16 @@ a{
     text-decoration: none;
     color: #C29B40;
 }
+
+@media screen and (min-width: 1440px) and (max-width: 1550px) {
+   #slider {
+       display: flex;
+       justify-content: center;
+   }
+
+   #logo2 {
+       z-index: 1;
+       margin-top: -6.5rem;
+       margin-left: -3.5rem;
+   }
+}
