@@ -19,7 +19,6 @@ $(document).ready(function () {
     mouseY = e.pageY;
     traX = (4 * mouseX) / 570 + 40;
     traY = (4 * mouseY) / 570 + 50;
-    console.log(traX);
     $(".atitle").css({ "background-position": traX + "%" + traY + "%" });
   });
   $("#sun").click(function () {
