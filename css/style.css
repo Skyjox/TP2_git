@@ -399,3 +399,92 @@ strong{
         height:300px;
     }
 }
+/* footer */
+@font-face {
+    font-family: Kugile;
+    src: url(./kugile.regular.ttf);
+  }
+  footer {
+    width: 100%;
+    background: #041626;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: "Kugile", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  }
+  
+  footer a {
+    color: #c29b40;
+  }
+  
+  #footerBody {
+    width: 80%;
+    min-height: 400px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border-bottom: 1px solid #c29b40;
+  }
+  
+  .log img {
+    width: 150px;
+  }
+  
+  .log p {
+    font-family: "Kugile", serif;
+    font-size: x-large;
+  }
+  
+  .res ul {
+    list-style-type: none;
+  }
+  
+  .res li img {
+    width: 80px;
+  }
+  
+  .propos,
+  .kyo {
+    width: 300px;
+    height: 300px;
+  }
+  
+  .propos h4,
+  .kyo h4 {
+    margin: 20px 0;
+  }
+  
+  .propos li,
+  .kyo li {
+    margin: 20px 0;
+    font-weight: lighter;
+  }
+  
+  .propos li:hover,
+  .kyo li:hover {
+    font-weight: normal;
+  }
+  
+  .mentleg {
+    width: 80%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+  }
+  /*css en tete + nav bar*/
+  /*slider*/
+  #slider {
+    width: 100%;
+    overflow: hidden;
+    opacity: 0.7;
+    max-height: 600px;
+  }
+  #slider figure img {
+    width: 100%;
+    float: left;
+  }
+  #slider figure {
+    position: relative;
+    width: 100%;
+  }

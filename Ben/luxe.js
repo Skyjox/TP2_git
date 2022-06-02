@@ -44,7 +44,8 @@ $(document).ready(function () {
       $("#txtb8").removeClass("txtdm");
       $("#txtb9").removeClass("txtdm");
       $("#txtb10").removeClass("txtdm");
-    } else {
+    } 
+    else {
       $("body").addClass("dark");
       $(".bglinear").addClass("dark");
       $("#llogo").attr("src", "../img/logoDM-removebg-preview-copie.png");
