@@ -1890,17 +1890,10 @@
     background-color: #252424 !important;
 }
 
-.bglinear{
-    background: linear-gradient(0deg, #062540, #1B578C, #66E4F2);
-    width:100%;
-}
 .menu-dark{
     background:linear-gradient(180deg,#252424,#252424,#252424,#252424)!important; 
 }
-.lvdm{
-    background:linear-gradient(180deg,#252424,#252424,#252424,#252424)!important; 
 
-}
 .dark{
     background:linear-gradient(180deg, #252424, #252424,#252424, #252424,#252424); 
 }

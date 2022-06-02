@@ -924,15 +924,13 @@ $(document).ready(function(){
       $("#sun").click(function(){
          if ($("body").hasClass("dark")){
              $("body").removeClass("dark");
-             $(".bglinear").removeClass("dark");            
-             $("#llogo").attr('src','./img/logo-removebg-preview.png');
-             $(".l_lille").removeClass('golden');
+             $("#llogo").attr('src','../logoDM-removebg-preview.png');
              $("#sun").removeClass('moon');
-             $("#sun").attr('src','./js/soleil-removebg-preview.png');
+             $("#sun").attr('src','../js/soleil-removebg-preview.png');
              $('.menu').removeClass("menu-dark");
              $(".lvideo-background").removeClass("lvdm");
              $(".lieux").removeClass("lieuxdm");
-             $("#logo2").attr('src','./img/logo-removebg-preview.png');
+             $("#logo2").attr('src','../img/logo-removebg-preview.png');
              $("#txtb1").removeClass('txtdm');
              $("#txtb2").removeClass('txtdm');
              $("#txtb3").removeClass('txtdm');
@@ -947,13 +945,13 @@ $(document).ready(function(){
          else{
              $("body").addClass("dark");
              $(".bglinear").addClass("dark");
-             $("#llogo").attr('src', './logoDM-removebg-preview.png');
+             $("#llogo").attr('src', '../js/logoDM-removebg-preview.png');
              $(".l_lille").addClass('golden');
              $("#sun").addClass('moon');
-             $("#sun").attr('src','./moon-removebg-preview.png');
+             $("#sun").attr('src','../js/moon-removebg-preview.png');
              $(".menu").addClass("menu-dark");
              $(".lieux").addClass("lieuxdm");
-             $("#logo2").attr('src', './logoDM-removebg-preview.png');
+             $("#logo2").attr('src', '../js/logoDM-removebg-preview.png');
              $(".lvideo-background").addClass("lvdm");
              $("#txtb1").addClass("txtdm");
              $("#txtb2").addClass("txtdm");
