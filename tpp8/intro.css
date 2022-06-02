@@ -1809,12 +1809,14 @@
     width: 7rem;
     height: 7rem;
     margin-left: 1%;
+    margin-top: 10rem;
 }
 
 .T-agimmo-contact {
     width: 100%;
     height: 40vh;
     margin-right: 0.5rem;
+    margin-top: 10rem;
 }
 
 .T-agimmo-photo:hover {
