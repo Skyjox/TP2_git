@@ -1,490 +1,544 @@
-
-@font-face{
-    font-family: beyond;
-    src:url("./Beyond\ Infinity\ -\ Demo.ttf")
+@font-face {
+  font-family: beyond;
+  src: url("./Beyond\ Infinity\ -\ Demo.ttf");
 }
 
 /*fin Police*/
 
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    overflow-x:hidden;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
 }
 
 /*fin reset general */
 /*Carrousel*/
 #slider {
-	width: 100%;
-    overflow: hidden;
-    opacity:0.7;
-    max-height: 600px;
+  width: 100%;
+  overflow: hidden;
+  opacity: 0.7;
+  max-height: 600px;
 }
 #slider figure img {
-	width: 100%;
-	float: left;
+  width: 100%;
+  float: left;
 }
 #slider figure {
-	position: relative;
-	width:100%;	
+  position: relative;
+  width: 100%;
 }
 
 /*fin carrousel*/
-#sun{
-    background-color:#66E4F2;
+#sun {
+  background-color: #66e4f2;
 }
 
-#logo2{
-    position: absolute;
-    top: 1%;
-    left: 38%;
-
+#logo2 {
+  position: absolute;
+  top: 1%;
+  left: 38%;
 }
 /*barre nav*/
 
 .menu {
-	width: 100%;
-	z-index: 2;
-    background: linear-gradient(180deg, #062540, #1B578C, #66E4F2);
+  width: 100%;
+  z-index: 2;
+  background: linear-gradient(180deg, #062540, #1b578c, #66e4f2);
 }
 .menu ul {
-	display: flex;
-	list-style-type: none;
-	padding-left: 0;
-    justify-content: space-evenly;
+  display: flex;
+  list-style-type: none;
+  padding-left: 0;
+  justify-content: space-evenly;
 }
 .menu a {
-	width: 20vw;
-	height: 7vh;
-	text-decoration: none;
+  width: 20vw;
+  height: 7vh;
+  text-decoration: none;
 }
-
 
 .menu li {
-    background-color: radial-gradient(180deg, #062540, #1B578C, #66E4F2);
-    width: 20vw;
-	height: 7vh;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	color: #F5DCB7;
-	font-size: 6vh;
-	font-weight: bold;
-    font-family: beyond, Arial, Helvetica, sans-serif;
+  background-color: radial-gradient(180deg, #062540, #1b578c, #66e4f2);
+  width: 20vw;
+  height: 7vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #f5dcb7;
+  font-size: 6vh;
+  font-weight: bold;
+  font-family: beyond, Arial, Helvetica, sans-serif;
 }
-.lieuxdm{
-    color:#C29B40 !important;
-    background-color: #252424 !important;
+.lieuxdm {
+  color: #c29b40 !important;
+  background-color: #252424 !important;
 }
 
 /*fin barre nav*/
-.bglinear{
-    background: linear-gradient(0deg, #062540, #1B578C, #66E4F2);
-    width:100%;
+.bglinear {
+  background: linear-gradient(0deg, #062540, #1b578c, #66e4f2);
+  width: 100%;
 }
-.menu-dark{
-    background:linear-gradient(180deg,#252424,#252424,#252424,#252424)!important; 
+.menu-dark {
+  background: linear-gradient(
+    180deg,
+    #252424,
+    #252424,
+    #252424,
+    #252424
+  ) !important;
 }
-.lvdm{
-    background:linear-gradient(180deg,#252424,#252424,#252424,#252424)!important; 
-
+.lvdm {
+  background: linear-gradient(
+    180deg,
+    #252424,
+    #252424,
+    #252424,
+    #252424
+  ) !important;
 }
-.dark{
-    background:linear-gradient(180deg, #252424, #252424,#252424, #252424,#252424); 
+.dark {
+  background: linear-gradient(
+    180deg,
+    #252424,
+    #252424,
+    #252424,
+    #252424,
+    #252424
+  );
 }
-.lvideo-background{
-    height:100%;
-}
-
-#lvideo{
-    min-height:200vh;
-    width: 100vw;
-    z-index: -12;
-    position:absolute;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size:contain;
-    object-fit: cover;
-}
-
-.moon{
-    background-color:#C29B40 !important;
-}
-
-.l_lille{
-    color:#606060;
-    position: absolute;
-    top: 77%;
-    left: 10%;
-    font-size: 10rem;
-    font-family: beyond, Arial, Helvetica, sans-serif;  
-    -webkit-text-stroke:2px #C29B40;
+.lvideo-background {
+  height: 100%;
 }
 
-.golden{
-    color:#C29B40;
+#lvideo {
+  min-height: 200vh;
+  width: 100vw;
+  z-index: -12;
+  position: absolute;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  object-fit: cover;
 }
 
-.l_logo{
-    width:100%;
+.moon {
+  background-color: #c29b40 !important;
 }
 
-#llogo{
-    z-index:14;
-    height: 12rem;
-    position: absolute;
-    left:80%;
-    top: 72%;
-
+.l_lille {
+  color: #606060;
+  position: absolute;
+  top: 77%;
+  left: 10%;
+  font-size: 10rem;
+  font-family: beyond, Arial, Helvetica, sans-serif;
+  -webkit-text-stroke: 2px #c29b40;
 }
 
-.l_agent_immo{
-    display: flex;
-    justify-content: center;
-    background-image:url('../img/photo_agent.png');
-    width:100%;
-    height:8.5rem;
-    background-repeat: no-repeat;
-    position:relative;
-    left:45%;
+.golden {
+  color: #c29b40;
 }
 
-#linfos{
-    text-align: center;
-    border: 2px solid black;
-    width: 15%;
-    background-color: lightgrey;
-    color:#1B578C;
-    margin-left: 41%;
-    margin-top:0.5%;    
+.l_logo {
+  width: 100%;
 }
-a{
-    text-decoration: none;
-    color: #C29B40;
+
+#llogo {
+  z-index: 14;
+  height: 12rem;
+  position: absolute;
+  left: 80%;
+  top: 72%;
 }
-.villas{
-    z-index: 1300;
-    display:flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
+
+.l_agent_immo {
+  display: flex;
+  justify-content: center;
+  background-image: url("../img/photo_agent.png");
+  width: 100%;
+  height: 8.5rem;
+  background-repeat: no-repeat;
+  position: relative;
+  left: 45%;
+}
+
+#linfos {
+  text-align: center;
+  border: 2px solid black;
+  width: 15%;
+  background-color: lightgrey;
+  color: #1b578c;
+  margin-left: 41%;
+  margin-top: 0.5%;
+}
+a {
+  text-decoration: none;
+  color: #c29b40;
+}
+.villas {
+  z-index: 1300;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
 }
 
 /* boites et texte */
 
-#boite1,#boite2,#boite3,#boite4,#boite5,#boite6,#boite7,#boite8,#boite9,#boite10{
-    background-image: url('../img/villa1.png');
-    width: 30%;
-    height: 350px;
-    border: 2px solid #C29B40;
-    background-repeat: no-repeat;
-    background-size: 100% 100%; 
-    position: relative;
-    margin-top: 1.5%;
-    box-shadow: 8px 8px 10px;
+#boite1,
+#boite2,
+#boite3,
+#boite4,
+#boite5,
+#boite6,
+#boite7,
+#boite8,
+#boite9,
+#boite10 {
+  background-image: url("../img/villa1.png");
+  width: 30%;
+  height: 350px;
+  border: 2px solid #c29b40;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  position: relative;
+  margin-top: 1.5%;
+  box-shadow: 8px 8px 10px;
 }
 
-#boite2{
-    background-image: url('../img/villa2.png');
+#boite2 {
+  background-image: url("../img/villa2.png");
 }
-#boite3{
-    background-image: url('../img/villa3.png ');
+#boite3 {
+  background-image: url("../img/villa3.png ");
 }
-#boite4{
-    background-image: url('../img/villa4.png');
+#boite4 {
+  background-image: url("../img/villa4.png");
 }
-#boite5{
-    background-image: url('../img/villa5.png');
+#boite5 {
+  background-image: url("../img/villa5.png");
 }
-#boite6{
-    background-image: url('../img/villa6.png');
+#boite6 {
+  background-image: url("../img/villa6.png");
 }
-#boite7{
-    background-image: url('../img/villa7.png');
+#boite7 {
+  background-image: url("../img/villa7.png");
 }
-#boite8{
-    background-image: url('../img/villa8.png');
+#boite8 {
+  background-image: url("../img/villa8.png");
 }
-#boite9{
-    background-image: url('../img/villa9.png');
+#boite9 {
+  background-image: url("../img/villa9.png");
 }
-#boite10{
-    background-image: url('../img/luxe2.jpeg');
-    width:80%;
-    margin-bottom: 2.5%;
-    height:300px;
+#boite10 {
+  background-image: url("../img/luxe2.jpeg");
+  width: 80%;
+  margin-bottom: 2.5%;
+  height: 300px;
 }
 
-#txtb1,#txtb2,#txtb3,#txtb4,#txtb5,#txtb6,#txtb7,#txtb8,#txtb9,#txtb10{
-    width:100%;
-    height:346px;
-    background-color:#1B578C;
-    color:#C29B40;
-    opacity:0.90 ;
-    position: relative;
-    display: none;
-    bottom: 0;
-    text-align: center;
-    font-size: 110%;
-    padding-top:10%;
-
+#txtb1,
+#txtb2,
+#txtb3,
+#txtb4,
+#txtb5,
+#txtb6,
+#txtb7,
+#txtb8,
+#txtb9,
+#txtb10 {
+  width: 100%;
+  height: 346px;
+  background-color: #1b578c;
+  color: #c29b40;
+  opacity: 0.9;
+  position: relative;
+  display: none;
+  bottom: 0;
+  text-align: center;
+  font-size: 110%;
+  padding-top: 10%;
 }
-.txtdm{
-    background-color:#252424 !important;
-    opacity:0.90 ;
+.txtdm {
+  background-color: #252424 !important;
+  opacity: 0.9;
 }
-strong{
-    font-size: 200%;
-    font-style:italic;
+strong {
+  font-size: 200%;
+  font-style: italic;
 }
 
 /* fin boites et texte*/
 
 /*media queries*/
-@media  screen and (max-width: 426px){
-    #lille{
-        background: linear-gradient(180deg, #062540, #1B578C, #66E4F2);
-    }
-    #logo2{
-        width: 25%;
-        height:20%;
-        position:absolute;
-        left:35%;
-
-    }
-   .lieux{
-       font-size: 4vh !important;
-   }
-   .l_lille{
-       font-size: 4rem;
-       position:absolute;
-       top:40%;
-       left: 2%;
-   }
-   .l_agent_immo{
-     position:relative;
-     left:35%; 
-     background-size:25%;
-   }
-   #linfos{
-       width:30%;
-       height:50%;
-       font-size:1.5vh;
-       margin-left:31.5%;
-    }
-    #llogo{
-        height:8rem;
-        position:absolute;
-        left:68%;
-        top:35%;
-    }
-    #lvideo{
-        display:none;
-    }
-    .villas{
-        display:flex;
-        flex-direction: column;
-    }
-    #boite1,#boite2,#boite3,#boite4,#boite5,#boite6,#boite7,#boite8,#boite9,#boite10{
-        width:100%;
-    }
-
+@media screen and (max-width: 426px) {
+  #lille {
+    background: linear-gradient(180deg, #062540, #1b578c, #66e4f2);
+  }
+  #logo2 {
+    width: 25%;
+    height: 20%;
+    position: absolute;
+    left: 35%;
+  }
+  .lieux {
+    font-size: 4vh !important;
+  }
+  .l_lille {
+    font-size: 4rem;
+    position: absolute;
+    top: 40%;
+    left: 2%;
+  }
+  .l_agent_immo {
+    position: relative;
+    left: 35%;
+    background-size: 25%;
+  }
+  #linfos {
+    width: 30%;
+    height: 50%;
+    font-size: 1.5vh;
+    margin-left: 31.5%;
+  }
+  #llogo {
+    height: 8rem;
+    position: absolute;
+    left: 68%;
+    top: 35%;
+  }
+  #lvideo {
+    display: none;
+  }
+  .villas {
+    display: flex;
+    flex-direction: column;
+  }
+  #boite1,
+  #boite2,
+  #boite3,
+  #boite4,
+  #boite5,
+  #boite6,
+  #boite7,
+  #boite8,
+  #boite9,
+  #boite10 {
+    width: 100%;
+  }
 }
 
-@media screen and (min-width:427px) and (max-width: 768px){
-    .lvideo-background{
-        background: linear-gradient(180deg, #062540, #1B578C, #66E4F2);
-    }
-    #logo2{
-        width: 30%;
-        height:33%;
-        top:5%;
-        position:absolute;
-        left:35%;
-
-    }
-   .lieux{
-       font-size: 6vh !important;
-   }
-   .l_lille{
-       font-size: 6rem;
-       position:absolute;
-       top:60%;
-       left: 4%;
-   }
-   .l_agent_immo{
-     position:relative;
-     left:40%; 
-     background-size:15%;
-     margin-top:2%;
-   }
-   #linfos{
-       width:40%;
-       height:50%;
-       font-size:2vh;
-       margin-left:28%;
-    }
-    #llogo{
-        height:8rem;
-        position:absolute;
-        left:75%;
-        top:55%;
-    }
-    #lvideo{
-        display:none;
-    }
-    .villas{
-        display:flex;
-        flex-wrap:wrap;
-        justify-content: space-evenly;
-    }
-    #boite1,#boite2,#boite3,#boite4,#boite5,#boite6,#boite7,#boite8,#boite9,#boite10{
-        width:48%;
-    }
-    #boite9{
-        height:52.55vh;
-    }
+@media screen and (min-width: 427px) and (max-width: 768px) {
+  .lvideo-background {
+    background: linear-gradient(180deg, #062540, #1b578c, #66e4f2);
+  }
+  #logo2 {
+    width: 30%;
+    height: 33%;
+    top: 5%;
+    position: absolute;
+    left: 35%;
+  }
+  .lieux {
+    font-size: 6vh !important;
+  }
+  .l_lille {
+    font-size: 6rem;
+    position: absolute;
+    top: 60%;
+    left: 4%;
+  }
+  .l_agent_immo {
+    position: relative;
+    left: 40%;
+    background-size: 15%;
+    margin-top: 2%;
+  }
+  #linfos {
+    width: 40%;
+    height: 50%;
+    font-size: 2vh;
+    margin-left: 28%;
+  }
+  #llogo {
+    height: 8rem;
+    position: absolute;
+    left: 75%;
+    top: 55%;
+  }
+  #lvideo {
+    display: none;
+  }
+  .villas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+  #boite1,
+  #boite2,
+  #boite3,
+  #boite4,
+  #boite5,
+  #boite6,
+  #boite7,
+  #boite8,
+  #boite9,
+  #boite10 {
+    width: 48%;
+  }
+  #boite9 {
+    height: 52.55vh;
+  }
 }
 
-@media screen and (min-width:768px) and (max-width: 1440px){
-    .lvideo-background{
-        background: linear-gradient(180deg, #062540, #1B578C, #66E4F2);
-        color:blue;
-    }
-    #logo2{
-        width: 35%;
-        height:43%;
-        top:5%;
-        position:absolute;
-        left:35%;
-
-    }
-   .lieux{
-       font-size: 6vh !important;
-   }
-   .l_lille{
-       font-size: 6rem;
-       position:absolute;
-       top:83%;
-       left: 8%;
-   }
-   .l_agent_immo{
-     position:relative;
-     left:45%; 
-     background-size:10%;
-     margin-top:2%;
-   }
-   #linfos{
-       width:25%;
-       height:50%;
-       font-size:1.5vh;
-       margin-left:37%;
-    }
-    #llogo{
-        height:10rem;
-        position:absolute;
-        left:75%;
-        top:75%;
-    }
-    #lvideo{
-        display:none;
-    }
-    .villas{
-        display:flex;
-        flex-wrap:wrap;
-        justify-content: space-evenly;
-    }
-    #boite1,#boite2,#boite3,#boite4,#boite5,#boite6,#boite7,#boite8,#boite9,#boite10{
-        width:45%;
-        height:300px;
-    }
+@media screen and (min-width: 768px) and (max-width: 1440px) {
+  .lvideo-background {
+    background: linear-gradient(180deg, #062540, #1b578c, #66e4f2);
+    color: blue;
+  }
+  #logo2 {
+    width: 35%;
+    height: 43%;
+    top: 5%;
+    position: absolute;
+    left: 35%;
+  }
+  .lieux {
+    font-size: 6vh !important;
+  }
+  .l_lille {
+    font-size: 6rem;
+    position: absolute;
+    top: 83%;
+    left: 8%;
+  }
+  .l_agent_immo {
+    position: relative;
+    left: 45%;
+    background-size: 10%;
+    margin-top: 2%;
+  }
+  #linfos {
+    width: 25%;
+    height: 50%;
+    font-size: 1.5vh;
+    margin-left: 37%;
+  }
+  #llogo {
+    height: 10rem;
+    position: absolute;
+    left: 75%;
+    top: 75%;
+  }
+  #lvideo {
+    display: none;
+  }
+  .villas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+  #boite1,
+  #boite2,
+  #boite3,
+  #boite4,
+  #boite5,
+  #boite6,
+  #boite7,
+  #boite8,
+  #boite9,
+  #boite10 {
+    width: 45%;
+    height: 300px;
+  }
 }
 /* footer */
 @font-face {
-    font-family: Kugile;
-    src: url(./kugile.regular.ttf);
-  }
-  footer {
-    width: 100%;
-    background: #041626;
-    color: white;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    font-family: "Kugile", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  }
-  
-  footer a {
-    color: #c29b40;
-  }
-  
-  #footerBody {
-    width: 80%;
-    min-height: 400px;
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-    border-bottom: 1px solid #c29b40;
-  }
-  
-  .log img {
-    width: 150px;
-  }
-  
-  .log p {
-    font-family: "Kugile", serif;
-    font-size: x-large;
-  }
-  
-  .res ul {
-    list-style-type: none;
-  }
-  
-  .res li img {
-    width: 80px;
-  }
-  
-  .propos,
-  .kyo {
-    width: 300px;
-    height: 300px;
-  }
-  
-  .propos h4,
-  .kyo h4 {
-    margin: 20px 0;
-  }
-  
-  .propos li,
-  .kyo li {
-    margin: 20px 0;
-    font-weight: lighter;
-  }
-  
-  .propos li:hover,
-  .kyo li:hover {
-    font-weight: normal;
-  }
-  
-  .mentleg {
-    width: 80%;
-    height: 50px;
-    display: flex;
-    justify-content: center;
-  }
-  /*css en tete + nav bar*/
-  /*slider*/
-  #slider {
-    width: 100%;
-    overflow: hidden;
-    opacity: 0.7;
-    max-height: 600px;
-  }
-  #slider figure img {
-    width: 100%;
-    float: left;
-  }
-  #slider figure {
-    position: relative;
-    width: 100%;
-  }
+  font-family: Kugile;
+  src: url(../Ben/kugile.regular.ttf);
+}
+footer {
+  width: 100%;
+  background: #041626;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: "Kugile", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+footer a {
+  color: #c29b40;
+}
+
+#footerBody {
+  width: 80%;
+  min-height: 400px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  border-bottom: 1px solid #c29b40;
+}
+
+.log img {
+  width: 150px;
+}
+
+.log p {
+  font-family: "Kugile", serif;
+  font-size: x-large;
+}
+
+.res ul {
+  list-style-type: none;
+}
+
+.res li img {
+  width: 80px;
+}
+
+.propos,
+.kyo {
+  width: 300px;
+  height: 300px;
+}
+
+.propos h4,
+.kyo h4 {
+  margin: 20px 0;
+}
+
+.propos li,
+.kyo li {
+  margin: 20px 0;
+  font-weight: lighter;
+}
+
+.propos li:hover,
+.kyo li:hover {
+  font-weight: normal;
+}
+
+.mentleg {
+  width: 80%;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+}
+/*css en tete + nav bar*/
+/*slider*/
+#slider {
+  width: 100%;
+  overflow: hidden;
+  opacity: 0.7;
+  max-height: 600px;
+}
+#slider figure img {
+  width: 100%;
+  float: left;
+}
+#slider figure {
+  position: relative;
+  width: 100%;
+}
