@@ -590,7 +590,8 @@
     align-items: center;
 }
 
-.sub_T-B_overlay1, .sub_T-B_overlay2, .sub_T-B_overlay3, .sub_T-B_overlay4, .sub_T-B_overlay5, .sub_T-B_overlay6,  .sub_T-B_overlay7,  .sub_T-B_overlay8,  .sub_T-B_overlay9,  .sub_T-B_overlay10   {
+.sub_T-B_overlay1, .sub_T-B_overlay2, .sub_T-B_overlay3, .sub_T-B_overlay4, .sub_T-B_overlay5, 
+.sub_T-B_overlay6,  .sub_T-B_overlay7,  .sub_T-B_overlay8,  .sub_T-B_overlay9,  .sub_T-B_overlay10   {
     width: 70%;
     height: 70%;
     background-color: rgb(7, 7, 97);
@@ -598,7 +599,8 @@
     flex-direction: column;
 }
 
-.head_sub_T-B_overlay1, .head_sub_T-B_overlay2, .head_sub_T-B_overlay3, .head_sub_T-B_overlay4, .head_sub_T-B_overlay5, .head_sub_T-B_overlay6, .head_sub_T-B_overlay7, .head_sub_T-B_overlay8, .head_sub_T-B_overlay9, .head_sub_T-B_overlay10  {
+.head_sub_T-B_overlay1, .head_sub_T-B_overlay2, .head_sub_T-B_overlay3, .head_sub_T-B_overlay4, .head_sub_T-B_overlay5, .head_sub_T-B_overlay6, 
+.head_sub_T-B_overlay7, .head_sub_T-B_overlay8, .head_sub_T-B_overlay9, .head_sub_T-B_overlay10  {
     width: 100%;
     height: 10%;
     background-color: rgb(7, 7, 97);
@@ -607,7 +609,8 @@
     align-items: center;
 }
 
-.title_head_sub_T-B_overlay1, .title_head_sub_T-B_overlay2, .title_head_sub_T-B_overlay3, .title_head_sub_T-B_overlay4, .title_head_sub_T-B_overlay5, .title_head_sub_T-B_overlay6,  .title_head_sub_T-B_overlay7,  .title_head_sub_T-B_overlay8,  .title_head_sub_T-B_overlay9,  .title_head_sub_T-B_overlay10   {
+.title_head_sub_T-B_overlay1, .title_head_sub_T-B_overlay2, .title_head_sub_T-B_overlay3, .title_head_sub_T-B_overlay4, .title_head_sub_T-B_overlay5, 
+.title_head_sub_T-B_overlay6,  .title_head_sub_T-B_overlay7,  .title_head_sub_T-B_overlay8,  .title_head_sub_T-B_overlay9,  .title_head_sub_T-B_overlay10   {
     width: 93%;
     height: 100%;
     display: flex;
@@ -620,10 +623,10 @@
     font-weight:800;
 }
 
-.cruz_head_sub_T-B_overlay1, .cruz_head_sub_T-B_overlay2, .cruz_head_sub_T-B_overlay3, .cruz_head_sub_T-B_overlay4, .cruz_head_sub_T-B_overlay5, .cruz_head_sub_T-B_overlay6,  .cruz_head_sub_T-B_overlay7,  .cruz_head_sub_T-B_overlay8,  .cruz_head_sub_T-B_overlay9,  .cruz_head_sub_T-B_overlay10   {
+.cruz_head_sub_T-B_overlay1, .cruz_head_sub_T-B_overlay2, .cruz_head_sub_T-B_overlay3, .cruz_head_sub_T-B_overlay4, .cruz_head_sub_T-B_overlay5, 
+.cruz_head_sub_T-B_overlay6,  .cruz_head_sub_T-B_overlay7,  .cruz_head_sub_T-B_overlay8,  .cruz_head_sub_T-B_overlay9,  .cruz_head_sub_T-B_overlay10   {
     width: 7%;
     height: 100%;
-    /*background-color: rgba(7, 7, 216,0.77);*/
     display: flex;
     justify-content: center;
     align-items: center;
@@ -634,33 +637,49 @@
       
 }
 
-.remover_cruz_head_sub_T-B_overlay1, .remover_cruz_head_sub_T-B_overlay2, .remover_cruz_head_sub_T-B_overlay3, .remover_cruz_head_sub_T-B_overlay4, .remover_cruz_head_sub_T-B_overlay5, .remover_cruz_head_sub_T-B_overlay6, .remover_cruz_head_sub_T-B_overlay7 , .remover_cruz_head_sub_T-B_overlay8 , .remover_cruz_head_sub_T-B_overlay9 , .remover_cruz_head_sub_T-B_overlay10   {
+.remover_cruz_head_sub_T-B_overlay1, .remover_cruz_head_sub_T-B_overlay2, .remover_cruz_head_sub_T-B_overlay3, .remover_cruz_head_sub_T-B_overlay4, 
+.remover_cruz_head_sub_T-B_overlay5, .remover_cruz_head_sub_T-B_overlay6, .remover_cruz_head_sub_T-B_overlay7 , 
+.remover_cruz_head_sub_T-B_overlay8 , .remover_cruz_head_sub_T-B_overlay9 , .remover_cruz_head_sub_T-B_overlay10   {
     cursor: pointer;
     font-weight: 600;
 }
 
-.remover_cruz_head_sub_T-B_overlay1:hover, .remover_cruz_head_sub_T-B_overlay2:hover, .remover_cruz_head_sub_T-B_overlay3:hover, .remover_cruz_head_sub_T-B_overlay4:hover, .remover_cruz_head_sub_T-B_overlay5:hover, .remover_cruz_head_sub_T-B_overlay6:hover, .remover_cruz_head_sub_T-B_overlay7:hover, .remover_cruz_head_sub_T-B_overlay8:hover, .remover_cruz_head_sub_T-B_overlay9:hover, .remover_cruz_head_sub_T-B_overlay10:hover {
+.remover_cruz_head_sub_T-B_overlay1:hover, .remover_cruz_head_sub_T-B_overlay2:hover, .remover_cruz_head_sub_T-B_overlay3:hover, 
+.remover_cruz_head_sub_T-B_overlay4:hover, .remover_cruz_head_sub_T-B_overlay5:hover, .remover_cruz_head_sub_T-B_overlay6:hover, 
+.remover_cruz_head_sub_T-B_overlay7:hover, .remover_cruz_head_sub_T-B_overlay8:hover, .remover_cruz_head_sub_T-B_overlay9:hover, 
+.remover_cruz_head_sub_T-B_overlay10:hover {
     cursor: pointer;
     font-size: 2.5rem;
 }
 
-.body_sub_T-B_overlay1, .body_sub_T-B_overlay2, .body_sub_T-B_overlay3, .body_sub_T-B_overlay4, .body_sub_T-B_overlay5, .body_sub_T-B_overlay6, .body_sub_T-B_overlay7, .body_sub_T-B_overlay8, .body_sub_T-B_overlay9, .body_sub_T-B_overlay10 {
+.body_sub_T-B_overlay1, .body_sub_T-B_overlay2, .body_sub_T-B_overlay3, .body_sub_T-B_overlay4, .body_sub_T-B_overlay5, .body_sub_T-B_overlay6, 
+.body_sub_T-B_overlay7, .body_sub_T-B_overlay8, .body_sub_T-B_overlay9, .body_sub_T-B_overlay10 {
     width: 100%;
     height: 90%;
     display: flex;
     flex-direction: row;
 }
 
-.photo_body_sub_T-B_overlay1-1, .photo_body_sub_T-B_overlay1-2, .photo_body_sub_T-B_overlay1-3, .photo_body_sub_T-B_overlay1-4, .photo_body_sub_T-B_overlay1-5, .photo_body_sub_T-B_overlay1-6, 
-.photo_body_sub_T-B_overlay2-1, .photo_body_sub_T-B_overlay2-2, .photo_body_sub_T-B_overlay2-3, .photo_body_sub_T-B_overlay2-4, .photo_body_sub_T-B_overlay2-5, .photo_body_sub_T-B_overlay2-6, 
-.photo_body_sub_T-B_overlay3-1, .photo_body_sub_T-B_overlay3-2, .photo_body_sub_T-B_overlay3-3, .photo_body_sub_T-B_overlay3-4, .photo_body_sub_T-B_overlay3-5, .photo_body_sub_T-B_overlay3-6, 
-.photo_body_sub_T-B_overlay4-1, .photo_body_sub_T-B_overlay4-2, .photo_body_sub_T-B_overlay4-3, .photo_body_sub_T-B_overlay4-4, .photo_body_sub_T-B_overlay4-5, .photo_body_sub_T-B_overlay4-6, 
-.photo_body_sub_T-B_overlay5-1, .photo_body_sub_T-B_overlay5-2, .photo_body_sub_T-B_overlay5-3, .photo_body_sub_T-B_overlay5-4, .photo_body_sub_T-B_overlay5-5, .photo_body_sub_T-B_overlay5-6, 
-.photo_body_sub_T-B_overlay6-1, .photo_body_sub_T-B_overlay6-2, .photo_body_sub_T-B_overlay6-3, .photo_body_sub_T-B_overlay6-4, .photo_body_sub_T-B_overlay6-5, .photo_body_sub_T-B_overlay6-6,
-.photo_body_sub_T-B_overlay7-1, .photo_body_sub_T-B_overlay7-2, .photo_body_sub_T-B_overlay7-3, .photo_body_sub_T-B_overlay7-4, .photo_body_sub_T-B_overlay7-5, .photo_body_sub_T-B_overlay7-6,
-.photo_body_sub_T-B_overlay8-1, .photo_body_sub_T-B_overlay8-2, .photo_body_sub_T-B_overlay8-3, .photo_body_sub_T-B_overlay8-4, .photo_body_sub_T-B_overlay8-5, .photo_body_sub_T-B_overlay8-6,
-.photo_body_sub_T-B_overlay9-1, .photo_body_sub_T-B_overlay9-2, .photo_body_sub_T-B_overlay9-3, .photo_body_sub_T-B_overlay9-4, .photo_body_sub_T-B_overlay9-5, .photo_body_sub_T-B_overlay9-6,
-.photo_body_sub_T-B_overlay10-1, .photo_body_sub_T-B_overlay10-2, .photo_body_sub_T-B_overlay10-3, .photo_body_sub_T-B_overlay10-4, .photo_body_sub_T-B_overlay10-5, .photo_body_sub_T-B_overlay10-6   {
+.photo_body_sub_T-B_overlay1-1, .photo_body_sub_T-B_overlay1-2, .photo_body_sub_T-B_overlay1-3, 
+.photo_body_sub_T-B_overlay1-4, .photo_body_sub_T-B_overlay1-5, .photo_body_sub_T-B_overlay1-6, 
+.photo_body_sub_T-B_overlay2-1, .photo_body_sub_T-B_overlay2-2, .photo_body_sub_T-B_overlay2-3, 
+.photo_body_sub_T-B_overlay2-4, .photo_body_sub_T-B_overlay2-5, .photo_body_sub_T-B_overlay2-6, 
+.photo_body_sub_T-B_overlay3-1, .photo_body_sub_T-B_overlay3-2, .photo_body_sub_T-B_overlay3-3, 
+.photo_body_sub_T-B_overlay3-4, .photo_body_sub_T-B_overlay3-5, .photo_body_sub_T-B_overlay3-6, 
+.photo_body_sub_T-B_overlay4-1, .photo_body_sub_T-B_overlay4-2, .photo_body_sub_T-B_overlay4-3, 
+.photo_body_sub_T-B_overlay4-4, .photo_body_sub_T-B_overlay4-5, .photo_body_sub_T-B_overlay4-6, 
+.photo_body_sub_T-B_overlay5-1, .photo_body_sub_T-B_overlay5-2, .photo_body_sub_T-B_overlay5-3, 
+.photo_body_sub_T-B_overlay5-4, .photo_body_sub_T-B_overlay5-5, .photo_body_sub_T-B_overlay5-6, 
+.photo_body_sub_T-B_overlay6-1, .photo_body_sub_T-B_overlay6-2, .photo_body_sub_T-B_overlay6-3, 
+.photo_body_sub_T-B_overlay6-4, .photo_body_sub_T-B_overlay6-5, .photo_body_sub_T-B_overlay6-6,
+.photo_body_sub_T-B_overlay7-1, .photo_body_sub_T-B_overlay7-2, .photo_body_sub_T-B_overlay7-3, 
+.photo_body_sub_T-B_overlay7-4, .photo_body_sub_T-B_overlay7-5, .photo_body_sub_T-B_overlay7-6,
+.photo_body_sub_T-B_overlay8-1, .photo_body_sub_T-B_overlay8-2, .photo_body_sub_T-B_overlay8-3, 
+.photo_body_sub_T-B_overlay8-4, .photo_body_sub_T-B_overlay8-5, .photo_body_sub_T-B_overlay8-6,
+.photo_body_sub_T-B_overlay9-1, .photo_body_sub_T-B_overlay9-2, .photo_body_sub_T-B_overlay9-3, 
+.photo_body_sub_T-B_overlay9-4, .photo_body_sub_T-B_overlay9-5, .photo_body_sub_T-B_overlay9-6,
+.photo_body_sub_T-B_overlay10-1, .photo_body_sub_T-B_overlay10-2, .photo_body_sub_T-B_overlay10-3, 
+.photo_body_sub_T-B_overlay10-4, .photo_body_sub_T-B_overlay10-5, .photo_body_sub_T-B_overlay10-6   {
     width: 60%;
     height: 100%;
     background-color:rgb(7, 7, 97);
@@ -669,16 +688,26 @@
     justify-content: center;
 }
 
-.core_photo_body_sub_T-B_overlay1-1, .core_photo_body_sub_T-B_overlay1-2, .core_photo_body_sub_T-B_overlay1-3, .core_photo_body_sub_T-B_overlay1-4, .core_photo_body_sub_T-B_overlay1-5, .core_photo_body_sub_T-B_overlay1-6, 
-.core_photo_body_sub_T-B_overlay2-1, .core_photo_body_sub_T-B_overlay2-2, .core_photo_body_sub_T-B_overlay2-3, .core_photo_body_sub_T-B_overlay2-4, .core_photo_body_sub_T-B_overlay2-5, .core_photo_body_sub_T-B_overlay2-6, 
-.core_photo_body_sub_T-B_overlay3-1, .core_photo_body_sub_T-B_overlay3-2, .core_photo_body_sub_T-B_overlay3-3, .core_photo_body_sub_T-B_overlay3-4, .core_photo_body_sub_T-B_overlay3-5, .core_photo_body_sub_T-B_overlay3-6, 
-.core_photo_body_sub_T-B_overlay4-1, .core_photo_body_sub_T-B_overlay4-2, .core_photo_body_sub_T-B_overlay4-3, .core_photo_body_sub_T-B_overlay4-4, .core_photo_body_sub_T-B_overlay4-5, .core_photo_body_sub_T-B_overlay4-6, 
-.core_photo_body_sub_T-B_overlay5-1, .core_photo_body_sub_T-B_overlay5-2, .core_photo_body_sub_T-B_overlay5-3, .core_photo_body_sub_T-B_overlay5-4, .core_photo_body_sub_T-B_overlay5-5, .core_photo_body_sub_T-B_overlay5-6, 
-.core_photo_body_sub_T-B_overlay6-1, .core_photo_body_sub_T-B_overlay6-2, .core_photo_body_sub_T-B_overlay6-3, .core_photo_body_sub_T-B_overlay6-4, .core_photo_body_sub_T-B_overlay6-5, .core_photo_body_sub_T-B_overlay6-6,
-.core_photo_body_sub_T-B_overlay7-1, .core_photo_body_sub_T-B_overlay7-2, .core_photo_body_sub_T-B_overlay7-3, .core_photo_body_sub_T-B_overlay7-4, .core_photo_body_sub_T-B_overlay7-5, .core_photo_body_sub_T-B_overlay7-6,
-.core_photo_body_sub_T-B_overlay8-1, .core_photo_body_sub_T-B_overlay8-2, .core_photo_body_sub_T-B_overlay8-3, .core_photo_body_sub_T-B_overlay8-4, .core_photo_body_sub_T-B_overlay8-5, .core_photo_body_sub_T-B_overlay8-6,
-.core_photo_body_sub_T-B_overlay9-1, .core_photo_body_sub_T-B_overlay9-2, .core_photo_body_sub_T-B_overlay9-3, .core_photo_body_sub_T-B_overlay9-4, .core_photo_body_sub_T-B_overlay9-5, .core_photo_body_sub_T-B_overlay9-6,
-.core_photo_body_sub_T-B_overlay10-1, .core_photo_body_sub_T-B_overlay10-2, .core_photo_body_sub_T-B_overlay10-3, .core_photo_body_sub_T-B_overlay10-4, .core_photo_body_sub_T-B_overlay10-5, .core_photo_body_sub_T-B_overlay10-6 {
+.core_photo_body_sub_T-B_overlay1-1, .core_photo_body_sub_T-B_overlay1-2, .core_photo_body_sub_T-B_overlay1-3, 
+.core_photo_body_sub_T-B_overlay1-4, .core_photo_body_sub_T-B_overlay1-5, .core_photo_body_sub_T-B_overlay1-6, 
+.core_photo_body_sub_T-B_overlay2-1, .core_photo_body_sub_T-B_overlay2-2, .core_photo_body_sub_T-B_overlay2-3, 
+.core_photo_body_sub_T-B_overlay2-4, .core_photo_body_sub_T-B_overlay2-5, .core_photo_body_sub_T-B_overlay2-6, 
+.core_photo_body_sub_T-B_overlay3-1, .core_photo_body_sub_T-B_overlay3-2, .core_photo_body_sub_T-B_overlay3-3, 
+.core_photo_body_sub_T-B_overlay3-4, .core_photo_body_sub_T-B_overlay3-5, .core_photo_body_sub_T-B_overlay3-6, 
+.core_photo_body_sub_T-B_overlay4-1, .core_photo_body_sub_T-B_overlay4-2, .core_photo_body_sub_T-B_overlay4-3, 
+.core_photo_body_sub_T-B_overlay4-4, .core_photo_body_sub_T-B_overlay4-5, .core_photo_body_sub_T-B_overlay4-6, 
+.core_photo_body_sub_T-B_overlay5-1, .core_photo_body_sub_T-B_overlay5-2, .core_photo_body_sub_T-B_overlay5-3, 
+.core_photo_body_sub_T-B_overlay5-4, .core_photo_body_sub_T-B_overlay5-5, .core_photo_body_sub_T-B_overlay5-6, 
+.core_photo_body_sub_T-B_overlay6-1, .core_photo_body_sub_T-B_overlay6-2, .core_photo_body_sub_T-B_overlay6-3, 
+.core_photo_body_sub_T-B_overlay6-4, .core_photo_body_sub_T-B_overlay6-5, .core_photo_body_sub_T-B_overlay6-6,
+.core_photo_body_sub_T-B_overlay7-1, .core_photo_body_sub_T-B_overlay7-2, .core_photo_body_sub_T-B_overlay7-3, 
+.core_photo_body_sub_T-B_overlay7-4, .core_photo_body_sub_T-B_overlay7-5, .core_photo_body_sub_T-B_overlay7-6,
+.core_photo_body_sub_T-B_overlay8-1, .core_photo_body_sub_T-B_overlay8-2, .core_photo_body_sub_T-B_overlay8-3, 
+.core_photo_body_sub_T-B_overlay8-4, .core_photo_body_sub_T-B_overlay8-5, .core_photo_body_sub_T-B_overlay8-6,
+.core_photo_body_sub_T-B_overlay9-1, .core_photo_body_sub_T-B_overlay9-2, .core_photo_body_sub_T-B_overlay9-3, 
+.core_photo_body_sub_T-B_overlay9-4, .core_photo_body_sub_T-B_overlay9-5, .core_photo_body_sub_T-B_overlay9-6,
+.core_photo_body_sub_T-B_overlay10-1, .core_photo_body_sub_T-B_overlay10-2, .core_photo_body_sub_T-B_overlay10-3, 
+.core_photo_body_sub_T-B_overlay10-4, .core_photo_body_sub_T-B_overlay10-5, .core_photo_body_sub_T-B_overlay10-6 {
     width: 60%;
     height: 55%;
     display: flex;
@@ -688,16 +717,26 @@
     font-size: 3rem;
 }
 
-.FG_photo_body_sub_T-B_overlay1-1, .FG_photo_body_sub_T-B_overlay1-2, .FG_photo_body_sub_T-B_overlay1-3, .FG_photo_body_sub_T-B_overlay1-4, .FG_photo_body_sub_T-B_overlay1-5, .FG_photo_body_sub_T-B_overlay1-6, 
-.FG_photo_body_sub_T-B_overlay2-1, .FG_photo_body_sub_T-B_overlay2-2, .FG_photo_body_sub_T-B_overlay2-3, .FG_photo_body_sub_T-B_overlay2-4, .FG_photo_body_sub_T-B_overlay2-5, .FG_photo_body_sub_T-B_overlay2-6, 
-.FG_photo_body_sub_T-B_overlay3-1, .FG_photo_body_sub_T-B_overlay3-2, .FG_photo_body_sub_T-B_overlay3-3, .FG_photo_body_sub_T-B_overlay3-4, .FG_photo_body_sub_T-B_overlay3-5, .FG_photo_body_sub_T-B_overlay3-6, 
-.FG_photo_body_sub_T-B_overlay4-1, .FG_photo_body_sub_T-B_overlay4-2, .FG_photo_body_sub_T-B_overlay4-3, .FG_photo_body_sub_T-B_overlay4-4, .FG_photo_body_sub_T-B_overlay4-5, .FG_photo_body_sub_T-B_overlay4-6, 
-.FG_photo_body_sub_T-B_overlay5-1, .FG_photo_body_sub_T-B_overlay5-2, .FG_photo_body_sub_T-B_overlay5-3, .FG_photo_body_sub_T-B_overlay5-4, .FG_photo_body_sub_T-B_overlay5-5, .FG_photo_body_sub_T-B_overlay5-6, 
-.FG_photo_body_sub_T-B_overlay6-1, .FG_photo_body_sub_T-B_overlay6-2, .FG_photo_body_sub_T-B_overlay6-3, .FG_photo_body_sub_T-B_overlay6-4, .FG_photo_body_sub_T-B_overlay6-5, .FG_photo_body_sub_T-B_overlay6-6,
-.FG_photo_body_sub_T-B_overlay7-1, .FG_photo_body_sub_T-B_overlay7-2, .FG_photo_body_sub_T-B_overlay7-3, .FG_photo_body_sub_T-B_overlay7-4, .FG_photo_body_sub_T-B_overlay7-5, .FG_photo_body_sub_T-B_overlay7-6,
-.FG_photo_body_sub_T-B_overlay8-1, .FG_photo_body_sub_T-B_overlay8-2, .FG_photo_body_sub_T-B_overlay8-3, .FG_photo_body_sub_T-B_overlay8-4, .FG_photo_body_sub_T-B_overlay8-5, .FG_photo_body_sub_T-B_overlay8-6,
-.FG_photo_body_sub_T-B_overlay9-1, .FG_photo_body_sub_T-B_overlay9-2, .FG_photo_body_sub_T-B_overlay9-3, .FG_photo_body_sub_T-B_overlay9-4, .FG_photo_body_sub_T-B_overlay9-5, .FG_photo_body_sub_T-B_overlay9-6,
-.FG_photo_body_sub_T-B_overlay10-1, .FG_photo_body_sub_T-B_overlay10-2, .FG_photo_body_sub_T-B_overlay10-3, .FG_photo_body_sub_T-B_overlay10-4, .FG_photo_body_sub_T-B_overlay10-5, .FG_photo_body_sub_T-B_overlay10-6 {
+.FG_photo_body_sub_T-B_overlay1-1, .FG_photo_body_sub_T-B_overlay1-2, .FG_photo_body_sub_T-B_overlay1-3, 
+.FG_photo_body_sub_T-B_overlay1-4, .FG_photo_body_sub_T-B_overlay1-5, .FG_photo_body_sub_T-B_overlay1-6, 
+.FG_photo_body_sub_T-B_overlay2-1, .FG_photo_body_sub_T-B_overlay2-2, .FG_photo_body_sub_T-B_overlay2-3, 
+.FG_photo_body_sub_T-B_overlay2-4, .FG_photo_body_sub_T-B_overlay2-5, .FG_photo_body_sub_T-B_overlay2-6, 
+.FG_photo_body_sub_T-B_overlay3-1, .FG_photo_body_sub_T-B_overlay3-2, .FG_photo_body_sub_T-B_overlay3-3, 
+.FG_photo_body_sub_T-B_overlay3-4, .FG_photo_body_sub_T-B_overlay3-5, .FG_photo_body_sub_T-B_overlay3-6, 
+.FG_photo_body_sub_T-B_overlay4-1, .FG_photo_body_sub_T-B_overlay4-2, .FG_photo_body_sub_T-B_overlay4-3, 
+.FG_photo_body_sub_T-B_overlay4-4, .FG_photo_body_sub_T-B_overlay4-5, .FG_photo_body_sub_T-B_overlay4-6, 
+.FG_photo_body_sub_T-B_overlay5-1, .FG_photo_body_sub_T-B_overlay5-2, .FG_photo_body_sub_T-B_overlay5-3, 
+.FG_photo_body_sub_T-B_overlay5-4, .FG_photo_body_sub_T-B_overlay5-5, .FG_photo_body_sub_T-B_overlay5-6, 
+.FG_photo_body_sub_T-B_overlay6-1, .FG_photo_body_sub_T-B_overlay6-2, .FG_photo_body_sub_T-B_overlay6-3, 
+.FG_photo_body_sub_T-B_overlay6-4, .FG_photo_body_sub_T-B_overlay6-5, .FG_photo_body_sub_T-B_overlay6-6,
+.FG_photo_body_sub_T-B_overlay7-1, .FG_photo_body_sub_T-B_overlay7-2, .FG_photo_body_sub_T-B_overlay7-3, 
+.FG_photo_body_sub_T-B_overlay7-4, .FG_photo_body_sub_T-B_overlay7-5, .FG_photo_body_sub_T-B_overlay7-6,
+.FG_photo_body_sub_T-B_overlay8-1, .FG_photo_body_sub_T-B_overlay8-2, .FG_photo_body_sub_T-B_overlay8-3, 
+.FG_photo_body_sub_T-B_overlay8-4, .FG_photo_body_sub_T-B_overlay8-5, .FG_photo_body_sub_T-B_overlay8-6,
+.FG_photo_body_sub_T-B_overlay9-1, .FG_photo_body_sub_T-B_overlay9-2, .FG_photo_body_sub_T-B_overlay9-3, 
+.FG_photo_body_sub_T-B_overlay9-4, .FG_photo_body_sub_T-B_overlay9-5, .FG_photo_body_sub_T-B_overlay9-6,
+.FG_photo_body_sub_T-B_overlay10-1, .FG_photo_body_sub_T-B_overlay10-2, .FG_photo_body_sub_T-B_overlay10-3, 
+.FG_photo_body_sub_T-B_overlay10-4, .FG_photo_body_sub_T-B_overlay10-5, .FG_photo_body_sub_T-B_overlay10-6 {
      width: 7%;
      height: 30%;
      margin-right: 2%;
@@ -708,16 +747,26 @@
     color: white;
 }
 
-.FD_photo_body_sub_T-B_overlay1-1, .FD_photo_body_sub_T-B_overlay1-2, .FD_photo_body_sub_T-B_overlay1-3, .FD_photo_body_sub_T-B_overlay1-4, .FD_photo_body_sub_T-B_overlay1-5, .FD_photo_body_sub_T-B_overlay1-6,
-.FD_photo_body_sub_T-B_overlay2-1, .FD_photo_body_sub_T-B_overlay2-2, .FD_photo_body_sub_T-B_overlay2-3, .FD_photo_body_sub_T-B_overlay2-4, .FD_photo_body_sub_T-B_overlay2-5, .FD_photo_body_sub_T-B_overlay2-6,
-.FD_photo_body_sub_T-B_overlay3-1, .FD_photo_body_sub_T-B_overlay3-2, .FD_photo_body_sub_T-B_overlay3-3, .FD_photo_body_sub_T-B_overlay3-4, .FD_photo_body_sub_T-B_overlay3-5, .FD_photo_body_sub_T-B_overlay3-6,
-.FD_photo_body_sub_T-B_overlay4-1, .FD_photo_body_sub_T-B_overlay4-2, .FD_photo_body_sub_T-B_overlay4-3, .FD_photo_body_sub_T-B_overlay4-4, .FD_photo_body_sub_T-B_overlay4-5, .FD_photo_body_sub_T-B_overlay4-6,
-.FD_photo_body_sub_T-B_overlay5-1, .FD_photo_body_sub_T-B_overlay5-2, .FD_photo_body_sub_T-B_overlay5-3, .FD_photo_body_sub_T-B_overlay5-4, .FD_photo_body_sub_T-B_overlay5-5, .FD_photo_body_sub_T-B_overlay5-6,
-.FD_photo_body_sub_T-B_overlay6-1, .FD_photo_body_sub_T-B_overlay6-2, .FD_photo_body_sub_T-B_overlay6-3, .FD_photo_body_sub_T-B_overlay6-4, .FD_photo_body_sub_T-B_overlay6-5, .FD_photo_body_sub_T-B_overlay6-6,
-.FD_photo_body_sub_T-B_overlay7-1, .FD_photo_body_sub_T-B_overlay7-2, .FD_photo_body_sub_T-B_overlay7-3, .FD_photo_body_sub_T-B_overlay7-4, .FD_photo_body_sub_T-B_overlay7-5, .FD_photo_body_sub_T-B_overlay7-6,
-.FD_photo_body_sub_T-B_overlay8-1, .FD_photo_body_sub_T-B_overlay8-2, .FD_photo_body_sub_T-B_overlay8-3, .FD_photo_body_sub_T-B_overlay8-4, .FD_photo_body_sub_T-B_overlay8-5, .FD_photo_body_sub_T-B_overlay8-6,
-.FD_photo_body_sub_T-B_overlay9-1, .FD_photo_body_sub_T-B_overlay9-2, .FD_photo_body_sub_T-B_overlay9-3, .FD_photo_body_sub_T-B_overlay9-4, .FD_photo_body_sub_T-B_overlay9-5, .FD_photo_body_sub_T-B_overlay9-6,
-.FD_photo_body_sub_T-B_overlay10-1, .FD_photo_body_sub_T-B_overlay10-2, .FD_photo_body_sub_T-B_overlay10-3, .FD_photo_body_sub_T-B_overlay10-4, .FD_photo_body_sub_T-B_overlay10-5, .FD_photo_body_sub_T-B_overlay10-6 {
+.FD_photo_body_sub_T-B_overlay1-1, .FD_photo_body_sub_T-B_overlay1-2, .FD_photo_body_sub_T-B_overlay1-3, 
+.FD_photo_body_sub_T-B_overlay1-4, .FD_photo_body_sub_T-B_overlay1-5, .FD_photo_body_sub_T-B_overlay1-6,
+.FD_photo_body_sub_T-B_overlay2-1, .FD_photo_body_sub_T-B_overlay2-2, .FD_photo_body_sub_T-B_overlay2-3, 
+.FD_photo_body_sub_T-B_overlay2-4, .FD_photo_body_sub_T-B_overlay2-5, .FD_photo_body_sub_T-B_overlay2-6,
+.FD_photo_body_sub_T-B_overlay3-1, .FD_photo_body_sub_T-B_overlay3-2, .FD_photo_body_sub_T-B_overlay3-3, 
+.FD_photo_body_sub_T-B_overlay3-4, .FD_photo_body_sub_T-B_overlay3-5, .FD_photo_body_sub_T-B_overlay3-6,
+.FD_photo_body_sub_T-B_overlay4-1, .FD_photo_body_sub_T-B_overlay4-2, .FD_photo_body_sub_T-B_overlay4-3, 
+.FD_photo_body_sub_T-B_overlay4-4, .FD_photo_body_sub_T-B_overlay4-5, .FD_photo_body_sub_T-B_overlay4-6,
+.FD_photo_body_sub_T-B_overlay5-1, .FD_photo_body_sub_T-B_overlay5-2, .FD_photo_body_sub_T-B_overlay5-3, 
+.FD_photo_body_sub_T-B_overlay5-4, .FD_photo_body_sub_T-B_overlay5-5, .FD_photo_body_sub_T-B_overlay5-6,
+.FD_photo_body_sub_T-B_overlay6-1, .FD_photo_body_sub_T-B_overlay6-2, .FD_photo_body_sub_T-B_overlay6-3, 
+.FD_photo_body_sub_T-B_overlay6-4, .FD_photo_body_sub_T-B_overlay6-5, .FD_photo_body_sub_T-B_overlay6-6,
+.FD_photo_body_sub_T-B_overlay7-1, .FD_photo_body_sub_T-B_overlay7-2, .FD_photo_body_sub_T-B_overlay7-3, 
+.FD_photo_body_sub_T-B_overlay7-4, .FD_photo_body_sub_T-B_overlay7-5, .FD_photo_body_sub_T-B_overlay7-6,
+.FD_photo_body_sub_T-B_overlay8-1, .FD_photo_body_sub_T-B_overlay8-2, .FD_photo_body_sub_T-B_overlay8-3, 
+.FD_photo_body_sub_T-B_overlay8-4, .FD_photo_body_sub_T-B_overlay8-5, .FD_photo_body_sub_T-B_overlay8-6,
+.FD_photo_body_sub_T-B_overlay9-1, .FD_photo_body_sub_T-B_overlay9-2, .FD_photo_body_sub_T-B_overlay9-3, 
+.FD_photo_body_sub_T-B_overlay9-4, .FD_photo_body_sub_T-B_overlay9-5, .FD_photo_body_sub_T-B_overlay9-6,
+.FD_photo_body_sub_T-B_overlay10-1, .FD_photo_body_sub_T-B_overlay10-2, .FD_photo_body_sub_T-B_overlay10-3, 
+.FD_photo_body_sub_T-B_overlay10-4, .FD_photo_body_sub_T-B_overlay10-5, .FD_photo_body_sub_T-B_overlay10-6 {
     width: 7%;
     height: 30%;
     margin-left: 2%;
@@ -728,7 +777,8 @@
     color: white;
 }
 
-.desc_body_sub_T-B_overlay1, .desc_body_sub_T-B_overlay2, .desc_body_sub_T-B_overlay3, .desc_body_sub_T-B_overlay4, .desc_body_sub_T-B_overlay5, .desc_body_sub_T-B_overlay6, .desc_body_sub_T-B_overlay7, .desc_body_sub_T-B_overlay8, .desc_body_sub_T-B_overlay9, .desc_body_sub_T-B_overlay10  {
+.desc_body_sub_T-B_overlay1, .desc_body_sub_T-B_overlay2, .desc_body_sub_T-B_overlay3, .desc_body_sub_T-B_overlay4, .desc_body_sub_T-B_overlay5, 
+.desc_body_sub_T-B_overlay6, .desc_body_sub_T-B_overlay7, .desc_body_sub_T-B_overlay8, .desc_body_sub_T-B_overlay9, .desc_body_sub_T-B_overlay10  {
     width: 40%;
     height: 100%;
     display: flex;
@@ -736,7 +786,9 @@
     background-color: rgb(7, 7, 97);
 }
 
-.price_desc_body_sub_T-B_overlay1, .price_desc_body_sub_T-B_overlay2, .price_desc_body_sub_T-B_overlay3, .price_desc_body_sub_T-B_overlay4, .price_desc_body_sub_T-B_overlay5, .price_desc_body_sub_T-B_overlay6, .price_desc_body_sub_T-B_overlay7, .price_desc_body_sub_T-B_overlay8, .price_desc_body_sub_T-B_overlay9, .price_desc_body_sub_T-B_overlay10  {
+.price_desc_body_sub_T-B_overlay1, .price_desc_body_sub_T-B_overlay2, .price_desc_body_sub_T-B_overlay3, .price_desc_body_sub_T-B_overlay4, 
+.price_desc_body_sub_T-B_overlay5, .price_desc_body_sub_T-B_overlay6, .price_desc_body_sub_T-B_overlay7, 
+.price_desc_body_sub_T-B_overlay8, .price_desc_body_sub_T-B_overlay9, .price_desc_body_sub_T-B_overlay10  {
     width: 100%;
     height: 17%;
     /*background-color: rgb(7, 7, 216);*/
@@ -749,7 +801,9 @@
     font-family: 'Cormorant', serif;
 }
 
-.text_desc_body_sub_T-B_overlay1, .text_desc_body_sub_T-B_overlay2, .text_desc_body_sub_T-B_overlay3, .text_desc_body_sub_T-B_overlay4, .text_desc_body_sub_T-B_overlay5, .text_desc_body_sub_T-B_overlay6, .text_desc_body_sub_T-B_overlay7, .text_desc_body_sub_T-B_overlay8, .text_desc_body_sub_T-B_overlay9, .text_desc_body_sub_T-B_overlay10  {
+.text_desc_body_sub_T-B_overlay1, .text_desc_body_sub_T-B_overlay2, .text_desc_body_sub_T-B_overlay3, .text_desc_body_sub_T-B_overlay4, 
+.text_desc_body_sub_T-B_overlay5, .text_desc_body_sub_T-B_overlay6, .text_desc_body_sub_T-B_overlay7, .text_desc_body_sub_T-B_overlay8, 
+.text_desc_body_sub_T-B_overlay9, .text_desc_body_sub_T-B_overlay10  {
     width: 100%;
     height: 83%;
     /*background-color:rgb(7, 7, 216);*/
@@ -759,7 +813,10 @@
     font-family: 'Cormorant', serif;
 }
 
-.writing_text_desc_body_sub_T-B_overlay1, .writing_text_desc_body_sub_T-B_overlay2, .writing_text_desc_body_sub_T-B_overlay3, .writing_text_desc_body_sub_T-B_overlay4, .writing_text_desc_body_sub_T-B_overlay5, .writing_text_desc_body_sub_T-B_overlay6, .writing_text_desc_body_sub_T-B_overlay7, .writing_text_desc_body_sub_T-B_overlay8, .writing_text_desc_body_sub_T-B_overlay9, .writing_text_desc_body_sub_T-B_overlay10  {
+.writing_text_desc_body_sub_T-B_overlay1, .writing_text_desc_body_sub_T-B_overlay2, .writing_text_desc_body_sub_T-B_overlay3, 
+.writing_text_desc_body_sub_T-B_overlay4, .writing_text_desc_body_sub_T-B_overlay5, .writing_text_desc_body_sub_T-B_overlay6, 
+.writing_text_desc_body_sub_T-B_overlay7, .writing_text_desc_body_sub_T-B_overlay8, .writing_text_desc_body_sub_T-B_overlay9, 
+.writing_text_desc_body_sub_T-B_overlay10  {
     width: 90%;
     height: 85%;
     /*background-color: rgb(7, 7, 216);*/
@@ -911,7 +968,8 @@
     align-items: center;
 }
 
-.sub_T-B_overlay1, .sub_T-B_overlay2, .sub_T-B_overlay3, .sub_T-B_overlay4, .sub_T-B_overlay5, .sub_T-B_overlay6,  .sub_T-B_overlay7,  .sub_T-B_overlay8,  .sub_T-B_overlay9,  .sub_T-B_overlay10   {
+.sub_T-B_overlay1, .sub_T-B_overlay2, .sub_T-B_overlay3, .sub_T-B_overlay4, .sub_T-B_overlay5, .sub_T-B_overlay6,  
+.sub_T-B_overlay7,  .sub_T-B_overlay8,  .sub_T-B_overlay9,  .sub_T-B_overlay10   {
     width: 95%;
     height: 95%;
     background-color: rgb(7, 7, 97);
@@ -920,7 +978,8 @@
     margin-left: -0.3rem;
 }
 
-.head_sub_T-B_overlay1, .head_sub_T-B_overlay2, .head_sub_T-B_overlay3, .head_sub_T-B_overlay4, .head_sub_T-B_overlay5, .head_sub_T-B_overlay6, .head_sub_T-B_overlay7, .head_sub_T-B_overlay8, .head_sub_T-B_overlay9, .head_sub_T-B_overlay10  {
+.head_sub_T-B_overlay1, .head_sub_T-B_overlay2, .head_sub_T-B_overlay3, .head_sub_T-B_overlay4, .head_sub_T-B_overlay5, 
+.head_sub_T-B_overlay6, .head_sub_T-B_overlay7, .head_sub_T-B_overlay8, .head_sub_T-B_overlay9, .head_sub_T-B_overlay10  {
     width: 100%;
     height: 8%;
     background-color: rgb(7, 7, 97);
@@ -930,7 +989,8 @@
     flex-direction: column-reverse;
 }
 
-.title_head_sub_T-B_overlay1, .title_head_sub_T-B_overlay2, .title_head_sub_T-B_overlay3, .title_head_sub_T-B_overlay4, .title_head_sub_T-B_overlay5, .title_head_sub_T-B_overlay6,  .title_head_sub_T-B_overlay7,  .title_head_sub_T-B_overlay8,  .title_head_sub_T-B_overlay9,  .title_head_sub_T-B_overlay10   {
+.title_head_sub_T-B_overlay1, .title_head_sub_T-B_overlay2, .title_head_sub_T-B_overlay3, .title_head_sub_T-B_overlay4, .title_head_sub_T-B_overlay5, 
+.title_head_sub_T-B_overlay6,  .title_head_sub_T-B_overlay7,  .title_head_sub_T-B_overlay8,  .title_head_sub_T-B_overlay9,  .title_head_sub_T-B_overlay10   {
     width: 100%;
     height: 100%;
     display: flex;
@@ -943,23 +1003,34 @@
     font-weight:800;
 }
 
-.body_sub_T-B_overlay1, .body_sub_T-B_overlay2, .body_sub_T-B_overlay3, .body_sub_T-B_overlay4, .body_sub_T-B_overlay5, .body_sub_T-B_overlay6, .body_sub_T-B_overlay7, .body_sub_T-B_overlay8, .body_sub_T-B_overlay9, .body_sub_T-B_overlay10 {
+.body_sub_T-B_overlay1, .body_sub_T-B_overlay2, .body_sub_T-B_overlay3, .body_sub_T-B_overlay4, .body_sub_T-B_overlay5, 
+.body_sub_T-B_overlay6, .body_sub_T-B_overlay7, .body_sub_T-B_overlay8, .body_sub_T-B_overlay9, .body_sub_T-B_overlay10 {
     width: 100%;
     height: 92%;
     display: flex;
     flex-direction: column;
 }
 
-.photo_body_sub_T-B_overlay1-1, .photo_body_sub_T-B_overlay1-2, .photo_body_sub_T-B_overlay1-3, .photo_body_sub_T-B_overlay1-4, .photo_body_sub_T-B_overlay1-5, .photo_body_sub_T-B_overlay1-6, 
-.photo_body_sub_T-B_overlay2-1, .photo_body_sub_T-B_overlay2-2, .photo_body_sub_T-B_overlay2-3, .photo_body_sub_T-B_overlay2-4, .photo_body_sub_T-B_overlay2-5, .photo_body_sub_T-B_overlay2-6, 
-.photo_body_sub_T-B_overlay3-1, .photo_body_sub_T-B_overlay3-2, .photo_body_sub_T-B_overlay3-3, .photo_body_sub_T-B_overlay3-4, .photo_body_sub_T-B_overlay3-5, .photo_body_sub_T-B_overlay3-6, 
-.photo_body_sub_T-B_overlay4-1, .photo_body_sub_T-B_overlay4-2, .photo_body_sub_T-B_overlay4-3, .photo_body_sub_T-B_overlay4-4, .photo_body_sub_T-B_overlay4-5, .photo_body_sub_T-B_overlay4-6, 
-.photo_body_sub_T-B_overlay5-1, .photo_body_sub_T-B_overlay5-2, .photo_body_sub_T-B_overlay5-3, .photo_body_sub_T-B_overlay5-4, .photo_body_sub_T-B_overlay5-5, .photo_body_sub_T-B_overlay5-6, 
-.photo_body_sub_T-B_overlay6-1, .photo_body_sub_T-B_overlay6-2, .photo_body_sub_T-B_overlay6-3, .photo_body_sub_T-B_overlay6-4, .photo_body_sub_T-B_overlay6-5, .photo_body_sub_T-B_overlay6-6,
-.photo_body_sub_T-B_overlay7-1, .photo_body_sub_T-B_overlay7-2, .photo_body_sub_T-B_overlay7-3, .photo_body_sub_T-B_overlay7-4, .photo_body_sub_T-B_overlay7-5, .photo_body_sub_T-B_overlay7-6,
-.photo_body_sub_T-B_overlay8-1, .photo_body_sub_T-B_overlay8-2, .photo_body_sub_T-B_overlay8-3, .photo_body_sub_T-B_overlay8-4, .photo_body_sub_T-B_overlay8-5, .photo_body_sub_T-B_overlay8-6,
-.photo_body_sub_T-B_overlay9-1, .photo_body_sub_T-B_overlay9-2, .photo_body_sub_T-B_overlay9-3, .photo_body_sub_T-B_overlay9-4, .photo_body_sub_T-B_overlay9-5, .photo_body_sub_T-B_overlay9-6,
-.photo_body_sub_T-B_overlay10-1, .photo_body_sub_T-B_overlay10-2, .photo_body_sub_T-B_overlay10-3, .photo_body_sub_T-B_overlay10-4, .photo_body_sub_T-B_overlay10-5, .photo_body_sub_T-B_overlay10-6   {
+.photo_body_sub_T-B_overlay1-1, .photo_body_sub_T-B_overlay1-2, .photo_body_sub_T-B_overlay1-3, 
+.photo_body_sub_T-B_overlay1-4, .photo_body_sub_T-B_overlay1-5, .photo_body_sub_T-B_overlay1-6, 
+.photo_body_sub_T-B_overlay2-1, .photo_body_sub_T-B_overlay2-2, .photo_body_sub_T-B_overlay2-3, 
+.photo_body_sub_T-B_overlay2-4, .photo_body_sub_T-B_overlay2-5, .photo_body_sub_T-B_overlay2-6, 
+.photo_body_sub_T-B_overlay3-1, .photo_body_sub_T-B_overlay3-2, .photo_body_sub_T-B_overlay3-3, 
+.photo_body_sub_T-B_overlay3-4, .photo_body_sub_T-B_overlay3-5, .photo_body_sub_T-B_overlay3-6, 
+.photo_body_sub_T-B_overlay4-1, .photo_body_sub_T-B_overlay4-2, .photo_body_sub_T-B_overlay4-3, 
+.photo_body_sub_T-B_overlay4-4, .photo_body_sub_T-B_overlay4-5, .photo_body_sub_T-B_overlay4-6, 
+.photo_body_sub_T-B_overlay5-1, .photo_body_sub_T-B_overlay5-2, .photo_body_sub_T-B_overlay5-3, 
+.photo_body_sub_T-B_overlay5-4, .photo_body_sub_T-B_overlay5-5, .photo_body_sub_T-B_overlay5-6, 
+.photo_body_sub_T-B_overlay6-1, .photo_body_sub_T-B_overlay6-2, .photo_body_sub_T-B_overlay6-3, 
+.photo_body_sub_T-B_overlay6-4, .photo_body_sub_T-B_overlay6-5, .photo_body_sub_T-B_overlay6-6,
+.photo_body_sub_T-B_overlay7-1, .photo_body_sub_T-B_overlay7-2, .photo_body_sub_T-B_overlay7-3, 
+.photo_body_sub_T-B_overlay7-4, .photo_body_sub_T-B_overlay7-5, .photo_body_sub_T-B_overlay7-6,
+.photo_body_sub_T-B_overlay8-1, .photo_body_sub_T-B_overlay8-2, .photo_body_sub_T-B_overlay8-3, 
+.photo_body_sub_T-B_overlay8-4, .photo_body_sub_T-B_overlay8-5, .photo_body_sub_T-B_overlay8-6,
+.photo_body_sub_T-B_overlay9-1, .photo_body_sub_T-B_overlay9-2, .photo_body_sub_T-B_overlay9-3, 
+.photo_body_sub_T-B_overlay9-4, .photo_body_sub_T-B_overlay9-5, .photo_body_sub_T-B_overlay9-6,
+.photo_body_sub_T-B_overlay10-1, .photo_body_sub_T-B_overlay10-2, .photo_body_sub_T-B_overlay10-3, 
+.photo_body_sub_T-B_overlay10-4, .photo_body_sub_T-B_overlay10-5, .photo_body_sub_T-B_overlay10-6   {
     width: 100%;
     height: 20%;
     background-color:rgb(7, 7, 97);
@@ -968,16 +1039,26 @@
     justify-content: center;
 }
 
-.core_photo_body_sub_T-B_overlay1-1, .core_photo_body_sub_T-B_overlay1-2, .core_photo_body_sub_T-B_overlay1-3, .core_photo_body_sub_T-B_overlay1-4, .core_photo_body_sub_T-B_overlay1-5, .core_photo_body_sub_T-B_overlay1-6, 
-.core_photo_body_sub_T-B_overlay2-1, .core_photo_body_sub_T-B_overlay2-2, .core_photo_body_sub_T-B_overlay2-3, .core_photo_body_sub_T-B_overlay2-4, .core_photo_body_sub_T-B_overlay2-5, .core_photo_body_sub_T-B_overlay2-6, 
-.core_photo_body_sub_T-B_overlay3-1, .core_photo_body_sub_T-B_overlay3-2, .core_photo_body_sub_T-B_overlay3-3, .core_photo_body_sub_T-B_overlay3-4, .core_photo_body_sub_T-B_overlay3-5, .core_photo_body_sub_T-B_overlay3-6, 
-.core_photo_body_sub_T-B_overlay4-1, .core_photo_body_sub_T-B_overlay4-2, .core_photo_body_sub_T-B_overlay4-3, .core_photo_body_sub_T-B_overlay4-4, .core_photo_body_sub_T-B_overlay4-5, .core_photo_body_sub_T-B_overlay4-6, 
-.core_photo_body_sub_T-B_overlay5-1, .core_photo_body_sub_T-B_overlay5-2, .core_photo_body_sub_T-B_overlay5-3, .core_photo_body_sub_T-B_overlay5-4, .core_photo_body_sub_T-B_overlay5-5, .core_photo_body_sub_T-B_overlay5-6, 
-.core_photo_body_sub_T-B_overlay6-1, .core_photo_body_sub_T-B_overlay6-2, .core_photo_body_sub_T-B_overlay6-3, .core_photo_body_sub_T-B_overlay6-4, .core_photo_body_sub_T-B_overlay6-5, .core_photo_body_sub_T-B_overlay6-6,
-.core_photo_body_sub_T-B_overlay7-1, .core_photo_body_sub_T-B_overlay7-2, .core_photo_body_sub_T-B_overlay7-3, .core_photo_body_sub_T-B_overlay7-4, .core_photo_body_sub_T-B_overlay7-5, .core_photo_body_sub_T-B_overlay7-6,
-.core_photo_body_sub_T-B_overlay8-1, .core_photo_body_sub_T-B_overlay8-2, .core_photo_body_sub_T-B_overlay8-3, .core_photo_body_sub_T-B_overlay8-4, .core_photo_body_sub_T-B_overlay8-5, .core_photo_body_sub_T-B_overlay8-6,
-.core_photo_body_sub_T-B_overlay9-1, .core_photo_body_sub_T-B_overlay9-2, .core_photo_body_sub_T-B_overlay9-3, .core_photo_body_sub_T-B_overlay9-4, .core_photo_body_sub_T-B_overlay9-5, .core_photo_body_sub_T-B_overlay9-6,
-.core_photo_body_sub_T-B_overlay10-1, .core_photo_body_sub_T-B_overlay10-2, .core_photo_body_sub_T-B_overlay10-3, .core_photo_body_sub_T-B_overlay10-4, .core_photo_body_sub_T-B_overlay10-5, .core_photo_body_sub_T-B_overlay10-6 {
+.core_photo_body_sub_T-B_overlay1-1, .core_photo_body_sub_T-B_overlay1-2, .core_photo_body_sub_T-B_overlay1-3, 
+.core_photo_body_sub_T-B_overlay1-4, .core_photo_body_sub_T-B_overlay1-5, .core_photo_body_sub_T-B_overlay1-6, 
+.core_photo_body_sub_T-B_overlay2-1, .core_photo_body_sub_T-B_overlay2-2, .core_photo_body_sub_T-B_overlay2-3, 
+.core_photo_body_sub_T-B_overlay2-4, .core_photo_body_sub_T-B_overlay2-5, .core_photo_body_sub_T-B_overlay2-6, 
+.core_photo_body_sub_T-B_overlay3-1, .core_photo_body_sub_T-B_overlay3-2, .core_photo_body_sub_T-B_overlay3-3, 
+.core_photo_body_sub_T-B_overlay3-4, .core_photo_body_sub_T-B_overlay3-5, .core_photo_body_sub_T-B_overlay3-6, 
+.core_photo_body_sub_T-B_overlay4-1, .core_photo_body_sub_T-B_overlay4-2, .core_photo_body_sub_T-B_overlay4-3, 
+.core_photo_body_sub_T-B_overlay4-4, .core_photo_body_sub_T-B_overlay4-5, .core_photo_body_sub_T-B_overlay4-6, 
+.core_photo_body_sub_T-B_overlay5-1, .core_photo_body_sub_T-B_overlay5-2, .core_photo_body_sub_T-B_overlay5-3, 
+.core_photo_body_sub_T-B_overlay5-4, .core_photo_body_sub_T-B_overlay5-5, .core_photo_body_sub_T-B_overlay5-6, 
+.core_photo_body_sub_T-B_overlay6-1, .core_photo_body_sub_T-B_overlay6-2, .core_photo_body_sub_T-B_overlay6-3, 
+.core_photo_body_sub_T-B_overlay6-4, .core_photo_body_sub_T-B_overlay6-5, .core_photo_body_sub_T-B_overlay6-6,
+.core_photo_body_sub_T-B_overlay7-1, .core_photo_body_sub_T-B_overlay7-2, .core_photo_body_sub_T-B_overlay7-3, 
+.core_photo_body_sub_T-B_overlay7-4, .core_photo_body_sub_T-B_overlay7-5, .core_photo_body_sub_T-B_overlay7-6,
+.core_photo_body_sub_T-B_overlay8-1, .core_photo_body_sub_T-B_overlay8-2, .core_photo_body_sub_T-B_overlay8-3, 
+.core_photo_body_sub_T-B_overlay8-4, .core_photo_body_sub_T-B_overlay8-5, .core_photo_body_sub_T-B_overlay8-6,
+.core_photo_body_sub_T-B_overlay9-1, .core_photo_body_sub_T-B_overlay9-2, .core_photo_body_sub_T-B_overlay9-3, 
+.core_photo_body_sub_T-B_overlay9-4, .core_photo_body_sub_T-B_overlay9-5, .core_photo_body_sub_T-B_overlay9-6,
+.core_photo_body_sub_T-B_overlay10-1, .core_photo_body_sub_T-B_overlay10-2, .core_photo_body_sub_T-B_overlay10-3, 
+.core_photo_body_sub_T-B_overlay10-4, .core_photo_body_sub_T-B_overlay10-5, .core_photo_body_sub_T-B_overlay10-6 {
     width: 80%;
     height: 100%;
     display: flex;
@@ -987,7 +1068,8 @@
     font-size: 3rem;
 }
 
-.desc_body_sub_T-B_overlay1, .desc_body_sub_T-B_overlay2, .desc_body_sub_T-B_overlay3, .desc_body_sub_T-B_overlay4, .desc_body_sub_T-B_overlay5, .desc_body_sub_T-B_overlay6, .desc_body_sub_T-B_overlay7, .desc_body_sub_T-B_overlay8, .desc_body_sub_T-B_overlay9, .desc_body_sub_T-B_overlay10  {
+.desc_body_sub_T-B_overlay1, .desc_body_sub_T-B_overlay2, .desc_body_sub_T-B_overlay3, .desc_body_sub_T-B_overlay4, .desc_body_sub_T-B_overlay5, 
+.desc_body_sub_T-B_overlay6, .desc_body_sub_T-B_overlay7, .desc_body_sub_T-B_overlay8, .desc_body_sub_T-B_overlay9, .desc_body_sub_T-B_overlay10  {
     width: 100%;
     height: 60%;
     display: flex;
@@ -995,16 +1077,26 @@
     background-color: rgb(7, 7, 97);
 }
 
-.FG_photo_body_sub_T-B_overlay1-1, .FG_photo_body_sub_T-B_overlay1-2, .FG_photo_body_sub_T-B_overlay1-3, .FG_photo_body_sub_T-B_overlay1-4, .FG_photo_body_sub_T-B_overlay1-5, .FG_photo_body_sub_T-B_overlay1-6, 
-.FG_photo_body_sub_T-B_overlay2-1, .FG_photo_body_sub_T-B_overlay2-2, .FG_photo_body_sub_T-B_overlay2-3, .FG_photo_body_sub_T-B_overlay2-4, .FG_photo_body_sub_T-B_overlay2-5, .FG_photo_body_sub_T-B_overlay2-6, 
-.FG_photo_body_sub_T-B_overlay3-1, .FG_photo_body_sub_T-B_overlay3-2, .FG_photo_body_sub_T-B_overlay3-3, .FG_photo_body_sub_T-B_overlay3-4, .FG_photo_body_sub_T-B_overlay3-5, .FG_photo_body_sub_T-B_overlay3-6, 
-.FG_photo_body_sub_T-B_overlay4-1, .FG_photo_body_sub_T-B_overlay4-2, .FG_photo_body_sub_T-B_overlay4-3, .FG_photo_body_sub_T-B_overlay4-4, .FG_photo_body_sub_T-B_overlay4-5, .FG_photo_body_sub_T-B_overlay4-6, 
-.FG_photo_body_sub_T-B_overlay5-1, .FG_photo_body_sub_T-B_overlay5-2, .FG_photo_body_sub_T-B_overlay5-3, .FG_photo_body_sub_T-B_overlay5-4, .FG_photo_body_sub_T-B_overlay5-5, .FG_photo_body_sub_T-B_overlay5-6, 
-.FG_photo_body_sub_T-B_overlay6-1, .FG_photo_body_sub_T-B_overlay6-2, .FG_photo_body_sub_T-B_overlay6-3, .FG_photo_body_sub_T-B_overlay6-4, .FG_photo_body_sub_T-B_overlay6-5, .FG_photo_body_sub_T-B_overlay6-6,
-.FG_photo_body_sub_T-B_overlay7-1, .FG_photo_body_sub_T-B_overlay7-2, .FG_photo_body_sub_T-B_overlay7-3, .FG_photo_body_sub_T-B_overlay7-4, .FG_photo_body_sub_T-B_overlay7-5, .FG_photo_body_sub_T-B_overlay7-6,
-.FG_photo_body_sub_T-B_overlay8-1, .FG_photo_body_sub_T-B_overlay8-2, .FG_photo_body_sub_T-B_overlay8-3, .FG_photo_body_sub_T-B_overlay8-4, .FG_photo_body_sub_T-B_overlay8-5, .FG_photo_body_sub_T-B_overlay8-6,
-.FG_photo_body_sub_T-B_overlay9-1, .FG_photo_body_sub_T-B_overlay9-2, .FG_photo_body_sub_T-B_overlay9-3, .FG_photo_body_sub_T-B_overlay9-4, .FG_photo_body_sub_T-B_overlay9-5, .FG_photo_body_sub_T-B_overlay9-6,
-.FG_photo_body_sub_T-B_overlay10-1, .FG_photo_body_sub_T-B_overlay10-2, .FG_photo_body_sub_T-B_overlay10-3, .FG_photo_body_sub_T-B_overlay10-4, .FG_photo_body_sub_T-B_overlay10-5, .FG_photo_body_sub_T-B_overlay10-6 {
+.FG_photo_body_sub_T-B_overlay1-1, .FG_photo_body_sub_T-B_overlay1-2, .FG_photo_body_sub_T-B_overlay1-3, 
+.FG_photo_body_sub_T-B_overlay1-4, .FG_photo_body_sub_T-B_overlay1-5, .FG_photo_body_sub_T-B_overlay1-6, 
+.FG_photo_body_sub_T-B_overlay2-1, .FG_photo_body_sub_T-B_overlay2-2, .FG_photo_body_sub_T-B_overlay2-3, 
+.FG_photo_body_sub_T-B_overlay2-4, .FG_photo_body_sub_T-B_overlay2-5, .FG_photo_body_sub_T-B_overlay2-6, 
+.FG_photo_body_sub_T-B_overlay3-1, .FG_photo_body_sub_T-B_overlay3-2, .FG_photo_body_sub_T-B_overlay3-3, 
+.FG_photo_body_sub_T-B_overlay3-4, .FG_photo_body_sub_T-B_overlay3-5, .FG_photo_body_sub_T-B_overlay3-6, 
+.FG_photo_body_sub_T-B_overlay4-1, .FG_photo_body_sub_T-B_overlay4-2, .FG_photo_body_sub_T-B_overlay4-3, 
+.FG_photo_body_sub_T-B_overlay4-4, .FG_photo_body_sub_T-B_overlay4-5, .FG_photo_body_sub_T-B_overlay4-6, 
+.FG_photo_body_sub_T-B_overlay5-1, .FG_photo_body_sub_T-B_overlay5-2, .FG_photo_body_sub_T-B_overlay5-3, 
+.FG_photo_body_sub_T-B_overlay5-4, .FG_photo_body_sub_T-B_overlay5-5, .FG_photo_body_sub_T-B_overlay5-6, 
+.FG_photo_body_sub_T-B_overlay6-1, .FG_photo_body_sub_T-B_overlay6-2, .FG_photo_body_sub_T-B_overlay6-3, 
+.FG_photo_body_sub_T-B_overlay6-4, .FG_photo_body_sub_T-B_overlay6-5, .FG_photo_body_sub_T-B_overlay6-6,
+.FG_photo_body_sub_T-B_overlay7-1, .FG_photo_body_sub_T-B_overlay7-2, .FG_photo_body_sub_T-B_overlay7-3, 
+.FG_photo_body_sub_T-B_overlay7-4, .FG_photo_body_sub_T-B_overlay7-5, .FG_photo_body_sub_T-B_overlay7-6,
+.FG_photo_body_sub_T-B_overlay8-1, .FG_photo_body_sub_T-B_overlay8-2, .FG_photo_body_sub_T-B_overlay8-3, 
+.FG_photo_body_sub_T-B_overlay8-4, .FG_photo_body_sub_T-B_overlay8-5, .FG_photo_body_sub_T-B_overlay8-6,
+.FG_photo_body_sub_T-B_overlay9-1, .FG_photo_body_sub_T-B_overlay9-2, .FG_photo_body_sub_T-B_overlay9-3, 
+.FG_photo_body_sub_T-B_overlay9-4, .FG_photo_body_sub_T-B_overlay9-5, .FG_photo_body_sub_T-B_overlay9-6,
+.FG_photo_body_sub_T-B_overlay10-1, .FG_photo_body_sub_T-B_overlay10-2, .FG_photo_body_sub_T-B_overlay10-3, 
+.FG_photo_body_sub_T-B_overlay10-4, .FG_photo_body_sub_T-B_overlay10-5, .FG_photo_body_sub_T-B_overlay10-6 {
      width: 7%;
      height: 30%;
      margin-right: .7rem;
@@ -1015,16 +1107,26 @@
     color: white;
 }
 
-.FD_photo_body_sub_T-B_overlay1-1, .FD_photo_body_sub_T-B_overlay1-2, .FD_photo_body_sub_T-B_overlay1-3, .FD_photo_body_sub_T-B_overlay1-4, .FD_photo_body_sub_T-B_overlay1-5, .FD_photo_body_sub_T-B_overlay1-6,
-.FD_photo_body_sub_T-B_overlay2-1, .FD_photo_body_sub_T-B_overlay2-2, .FD_photo_body_sub_T-B_overlay2-3, .FD_photo_body_sub_T-B_overlay2-4, .FD_photo_body_sub_T-B_overlay2-5, .FD_photo_body_sub_T-B_overlay2-6,
-.FD_photo_body_sub_T-B_overlay3-1, .FD_photo_body_sub_T-B_overlay3-2, .FD_photo_body_sub_T-B_overlay3-3, .FD_photo_body_sub_T-B_overlay3-4, .FD_photo_body_sub_T-B_overlay3-5, .FD_photo_body_sub_T-B_overlay3-6,
-.FD_photo_body_sub_T-B_overlay4-1, .FD_photo_body_sub_T-B_overlay4-2, .FD_photo_body_sub_T-B_overlay4-3, .FD_photo_body_sub_T-B_overlay4-4, .FD_photo_body_sub_T-B_overlay4-5, .FD_photo_body_sub_T-B_overlay4-6,
-.FD_photo_body_sub_T-B_overlay5-1, .FD_photo_body_sub_T-B_overlay5-2, .FD_photo_body_sub_T-B_overlay5-3, .FD_photo_body_sub_T-B_overlay5-4, .FD_photo_body_sub_T-B_overlay5-5, .FD_photo_body_sub_T-B_overlay5-6,
-.FD_photo_body_sub_T-B_overlay6-1, .FD_photo_body_sub_T-B_overlay6-2, .FD_photo_body_sub_T-B_overlay6-3, .FD_photo_body_sub_T-B_overlay6-4, .FD_photo_body_sub_T-B_overlay6-5, .FD_photo_body_sub_T-B_overlay6-6,
-.FD_photo_body_sub_T-B_overlay7-1, .FD_photo_body_sub_T-B_overlay7-2, .FD_photo_body_sub_T-B_overlay7-3, .FD_photo_body_sub_T-B_overlay7-4, .FD_photo_body_sub_T-B_overlay7-5, .FD_photo_body_sub_T-B_overlay7-6,
-.FD_photo_body_sub_T-B_overlay8-1, .FD_photo_body_sub_T-B_overlay8-2, .FD_photo_body_sub_T-B_overlay8-3, .FD_photo_body_sub_T-B_overlay8-4, .FD_photo_body_sub_T-B_overlay8-5, .FD_photo_body_sub_T-B_overlay8-6,
-.FD_photo_body_sub_T-B_overlay9-1, .FD_photo_body_sub_T-B_overlay9-2, .FD_photo_body_sub_T-B_overlay9-3, .FD_photo_body_sub_T-B_overlay9-4, .FD_photo_body_sub_T-B_overlay9-5, .FD_photo_body_sub_T-B_overlay9-6,
-.FD_photo_body_sub_T-B_overlay10-1, .FD_photo_body_sub_T-B_overlay10-2, .FD_photo_body_sub_T-B_overlay10-3, .FD_photo_body_sub_T-B_overlay10-4, .FD_photo_body_sub_T-B_overlay10-5, .FD_photo_body_sub_T-B_overlay10-6 {
+.FD_photo_body_sub_T-B_overlay1-1, .FD_photo_body_sub_T-B_overlay1-2, .FD_photo_body_sub_T-B_overlay1-3, 
+.FD_photo_body_sub_T-B_overlay1-4, .FD_photo_body_sub_T-B_overlay1-5, .FD_photo_body_sub_T-B_overlay1-6,
+.FD_photo_body_sub_T-B_overlay2-1, .FD_photo_body_sub_T-B_overlay2-2, .FD_photo_body_sub_T-B_overlay2-3, 
+.FD_photo_body_sub_T-B_overlay2-4, .FD_photo_body_sub_T-B_overlay2-5, .FD_photo_body_sub_T-B_overlay2-6,
+.FD_photo_body_sub_T-B_overlay3-1, .FD_photo_body_sub_T-B_overlay3-2, .FD_photo_body_sub_T-B_overlay3-3, 
+.FD_photo_body_sub_T-B_overlay3-4, .FD_photo_body_sub_T-B_overlay3-5, .FD_photo_body_sub_T-B_overlay3-6,
+.FD_photo_body_sub_T-B_overlay4-1, .FD_photo_body_sub_T-B_overlay4-2, .FD_photo_body_sub_T-B_overlay4-3, 
+.FD_photo_body_sub_T-B_overlay4-4, .FD_photo_body_sub_T-B_overlay4-5, .FD_photo_body_sub_T-B_overlay4-6,
+.FD_photo_body_sub_T-B_overlay5-1, .FD_photo_body_sub_T-B_overlay5-2, .FD_photo_body_sub_T-B_overlay5-3, 
+.FD_photo_body_sub_T-B_overlay5-4, .FD_photo_body_sub_T-B_overlay5-5, .FD_photo_body_sub_T-B_overlay5-6,
+.FD_photo_body_sub_T-B_overlay6-1, .FD_photo_body_sub_T-B_overlay6-2, .FD_photo_body_sub_T-B_overlay6-3, 
+.FD_photo_body_sub_T-B_overlay6-4, .FD_photo_body_sub_T-B_overlay6-5, .FD_photo_body_sub_T-B_overlay6-6,
+.FD_photo_body_sub_T-B_overlay7-1, .FD_photo_body_sub_T-B_overlay7-2, .FD_photo_body_sub_T-B_overlay7-3, 
+.FD_photo_body_sub_T-B_overlay7-4, .FD_photo_body_sub_T-B_overlay7-5, .FD_photo_body_sub_T-B_overlay7-6,
+.FD_photo_body_sub_T-B_overlay8-1, .FD_photo_body_sub_T-B_overlay8-2, .FD_photo_body_sub_T-B_overlay8-3, 
+.FD_photo_body_sub_T-B_overlay8-4, .FD_photo_body_sub_T-B_overlay8-5, .FD_photo_body_sub_T-B_overlay8-6,
+.FD_photo_body_sub_T-B_overlay9-1, .FD_photo_body_sub_T-B_overlay9-2, .FD_photo_body_sub_T-B_overlay9-3, 
+.FD_photo_body_sub_T-B_overlay9-4, .FD_photo_body_sub_T-B_overlay9-5, .FD_photo_body_sub_T-B_overlay9-6,
+.FD_photo_body_sub_T-B_overlay10-1, .FD_photo_body_sub_T-B_overlay10-2, .FD_photo_body_sub_T-B_overlay10-3, 
+.FD_photo_body_sub_T-B_overlay10-4, .FD_photo_body_sub_T-B_overlay10-5, .FD_photo_body_sub_T-B_overlay10-6 {
     width: 7%;
     height: 30%;
     margin-left: .7rem;
@@ -1035,7 +1137,9 @@
     color: white;
 }
 
-.price_desc_body_sub_T-B_overlay1, .price_desc_body_sub_T-B_overlay2, .price_desc_body_sub_T-B_overlay3, .price_desc_body_sub_T-B_overlay4, .price_desc_body_sub_T-B_overlay5, .price_desc_body_sub_T-B_overlay6, .price_desc_body_sub_T-B_overlay7, .price_desc_body_sub_T-B_overlay8, .price_desc_body_sub_T-B_overlay9, .price_desc_body_sub_T-B_overlay10  {
+.price_desc_body_sub_T-B_overlay1, .price_desc_body_sub_T-B_overlay2, .price_desc_body_sub_T-B_overlay3, .price_desc_body_sub_T-B_overlay4, 
+.price_desc_body_sub_T-B_overlay5, .price_desc_body_sub_T-B_overlay6, .price_desc_body_sub_T-B_overlay7, 
+.price_desc_body_sub_T-B_overlay8, .price_desc_body_sub_T-B_overlay9, .price_desc_body_sub_T-B_overlay10  {
     width: 100%;
     height: 17%;
     /*background-color: rgb(7, 7, 216);*/
@@ -1048,7 +1152,10 @@
     font-family: 'Cormorant', serif;
 }
 
-.writing_text_desc_body_sub_T-B_overlay1, .writing_text_desc_body_sub_T-B_overlay2, .writing_text_desc_body_sub_T-B_overlay3, .writing_text_desc_body_sub_T-B_overlay4, .writing_text_desc_body_sub_T-B_overlay5, .writing_text_desc_body_sub_T-B_overlay6, .writing_text_desc_body_sub_T-B_overlay7, .writing_text_desc_body_sub_T-B_overlay8, .writing_text_desc_body_sub_T-B_overlay9, .writing_text_desc_body_sub_T-B_overlay10  {
+.writing_text_desc_body_sub_T-B_overlay1, .writing_text_desc_body_sub_T-B_overlay2, .writing_text_desc_body_sub_T-B_overlay3, 
+.writing_text_desc_body_sub_T-B_overlay4, .writing_text_desc_body_sub_T-B_overlay5, .writing_text_desc_body_sub_T-B_overlay6, 
+.writing_text_desc_body_sub_T-B_overlay7, .writing_text_desc_body_sub_T-B_overlay8, 
+.writing_text_desc_body_sub_T-B_overlay9, .writing_text_desc_body_sub_T-B_overlay10  {
     width: 90%;
     height: 85%;
     /*background-color: rgb(7, 7, 216);*/
@@ -1217,7 +1324,8 @@
     height: 170vh;
 }
 
-.sub_T-B_overlay1, .sub_T-B_overlay2, .sub_T-B_overlay3, .sub_T-B_overlay4, .sub_T-B_overlay5, .sub_T-B_overlay6,  .sub_T-B_overlay7,  .sub_T-B_overlay8,  .sub_T-B_overlay9,  .sub_T-B_overlay10   {
+.sub_T-B_overlay1, .sub_T-B_overlay2, .sub_T-B_overlay3, .sub_T-B_overlay4, .sub_T-B_overlay5, 
+.sub_T-B_overlay6,  .sub_T-B_overlay7,  .sub_T-B_overlay8,  .sub_T-B_overlay9,  .sub_T-B_overlay10   {
     width: 95%;
     height: 95%;
     background-color: rgb(7, 7, 97);
@@ -1226,7 +1334,8 @@
     margin-left: -0.3rem;
 }
 
-.head_sub_T-B_overlay1, .head_sub_T-B_overlay2, .head_sub_T-B_overlay3, .head_sub_T-B_overlay4, .head_sub_T-B_overlay5, .head_sub_T-B_overlay6, .head_sub_T-B_overlay7, .head_sub_T-B_overlay8, .head_sub_T-B_overlay9, .head_sub_T-B_overlay10  {
+.head_sub_T-B_overlay1, .head_sub_T-B_overlay2, .head_sub_T-B_overlay3, .head_sub_T-B_overlay4, .head_sub_T-B_overlay5, 
+.head_sub_T-B_overlay6, .head_sub_T-B_overlay7, .head_sub_T-B_overlay8, .head_sub_T-B_overlay9, .head_sub_T-B_overlay10  {
     width: 100%;
     height: 8%;
     background-color: rgb(7, 7, 97);
@@ -1236,93 +1345,141 @@
     flex-direction: column-reverse;
 }
 
-.title_head_sub_T-B_overlay1, .title_head_sub_T-B_overlay2, .title_head_sub_T-B_overlay3, .title_head_sub_T-B_overlay4, .title_head_sub_T-B_overlay5, .title_head_sub_T-B_overlay6,  .title_head_sub_T-B_overlay7,  .title_head_sub_T-B_overlay8,  .title_head_sub_T-B_overlay9,  .title_head_sub_T-B_overlay10   {
+.title_head_sub_T-B_overlay1, .title_head_sub_T-B_overlay2, .title_head_sub_T-B_overlay3, .title_head_sub_T-B_overlay4, .title_head_sub_T-B_overlay5, 
+.title_head_sub_T-B_overlay6,  .title_head_sub_T-B_overlay7,  .title_head_sub_T-B_overlay8,  .title_head_sub_T-B_overlay9,  .title_head_sub_T-B_overlay10   {
     width: 100%;
     height: 100%;
     font-size: 1.4rem;
     letter-spacing: .1rem;
 }
 
-.body_sub_T-B_overlay1, .body_sub_T-B_overlay2, .body_sub_T-B_overlay3, .body_sub_T-B_overlay4, .body_sub_T-B_overlay5, .body_sub_T-B_overlay6, .body_sub_T-B_overlay7, .body_sub_T-B_overlay8, .body_sub_T-B_overlay9, .body_sub_T-B_overlay10 {
+.body_sub_T-B_overlay1, .body_sub_T-B_overlay2, .body_sub_T-B_overlay3, .body_sub_T-B_overlay4, .body_sub_T-B_overlay5, 
+.body_sub_T-B_overlay6, .body_sub_T-B_overlay7, .body_sub_T-B_overlay8, .body_sub_T-B_overlay9, .body_sub_T-B_overlay10 {
     width: 100%;
     height: 92%;
     display: flex;
     flex-direction: column;
 }
 
-.photo_body_sub_T-B_overlay1-1, .photo_body_sub_T-B_overlay1-2, .photo_body_sub_T-B_overlay1-3, .photo_body_sub_T-B_overlay1-4, .photo_body_sub_T-B_overlay1-5, .photo_body_sub_T-B_overlay1-6, 
-.photo_body_sub_T-B_overlay2-1, .photo_body_sub_T-B_overlay2-2, .photo_body_sub_T-B_overlay2-3, .photo_body_sub_T-B_overlay2-4, .photo_body_sub_T-B_overlay2-5, .photo_body_sub_T-B_overlay2-6, 
-.photo_body_sub_T-B_overlay3-1, .photo_body_sub_T-B_overlay3-2, .photo_body_sub_T-B_overlay3-3, .photo_body_sub_T-B_overlay3-4, .photo_body_sub_T-B_overlay3-5, .photo_body_sub_T-B_overlay3-6, 
-.photo_body_sub_T-B_overlay4-1, .photo_body_sub_T-B_overlay4-2, .photo_body_sub_T-B_overlay4-3, .photo_body_sub_T-B_overlay4-4, .photo_body_sub_T-B_overlay4-5, .photo_body_sub_T-B_overlay4-6, 
-.photo_body_sub_T-B_overlay5-1, .photo_body_sub_T-B_overlay5-2, .photo_body_sub_T-B_overlay5-3, .photo_body_sub_T-B_overlay5-4, .photo_body_sub_T-B_overlay5-5, .photo_body_sub_T-B_overlay5-6, 
-.photo_body_sub_T-B_overlay6-1, .photo_body_sub_T-B_overlay6-2, .photo_body_sub_T-B_overlay6-3, .photo_body_sub_T-B_overlay6-4, .photo_body_sub_T-B_overlay6-5, .photo_body_sub_T-B_overlay6-6,
-.photo_body_sub_T-B_overlay7-1, .photo_body_sub_T-B_overlay7-2, .photo_body_sub_T-B_overlay7-3, .photo_body_sub_T-B_overlay7-4, .photo_body_sub_T-B_overlay7-5, .photo_body_sub_T-B_overlay7-6,
-.photo_body_sub_T-B_overlay8-1, .photo_body_sub_T-B_overlay8-2, .photo_body_sub_T-B_overlay8-3, .photo_body_sub_T-B_overlay8-4, .photo_body_sub_T-B_overlay8-5, .photo_body_sub_T-B_overlay8-6,
-.photo_body_sub_T-B_overlay9-1, .photo_body_sub_T-B_overlay9-2, .photo_body_sub_T-B_overlay9-3, .photo_body_sub_T-B_overlay9-4, .photo_body_sub_T-B_overlay9-5, .photo_body_sub_T-B_overlay9-6,
-.photo_body_sub_T-B_overlay10-1, .photo_body_sub_T-B_overlay10-2, .photo_body_sub_T-B_overlay10-3, .photo_body_sub_T-B_overlay10-4, .photo_body_sub_T-B_overlay10-5, .photo_body_sub_T-B_overlay10-6   {
+.photo_body_sub_T-B_overlay1-1, .photo_body_sub_T-B_overlay1-2, .photo_body_sub_T-B_overlay1-3, 
+.photo_body_sub_T-B_overlay1-4, .photo_body_sub_T-B_overlay1-5, .photo_body_sub_T-B_overlay1-6, 
+.photo_body_sub_T-B_overlay2-1, .photo_body_sub_T-B_overlay2-2, .photo_body_sub_T-B_overlay2-3, 
+.photo_body_sub_T-B_overlay2-4, .photo_body_sub_T-B_overlay2-5, .photo_body_sub_T-B_overlay2-6, 
+.photo_body_sub_T-B_overlay3-1, .photo_body_sub_T-B_overlay3-2, .photo_body_sub_T-B_overlay3-3, 
+.photo_body_sub_T-B_overlay3-4, .photo_body_sub_T-B_overlay3-5, .photo_body_sub_T-B_overlay3-6, 
+.photo_body_sub_T-B_overlay4-1, .photo_body_sub_T-B_overlay4-2, .photo_body_sub_T-B_overlay4-3, 
+.photo_body_sub_T-B_overlay4-4, .photo_body_sub_T-B_overlay4-5, .photo_body_sub_T-B_overlay4-6, 
+.photo_body_sub_T-B_overlay5-1, .photo_body_sub_T-B_overlay5-2, .photo_body_sub_T-B_overlay5-3, 
+.photo_body_sub_T-B_overlay5-4, .photo_body_sub_T-B_overlay5-5, .photo_body_sub_T-B_overlay5-6, 
+.photo_body_sub_T-B_overlay6-1, .photo_body_sub_T-B_overlay6-2, .photo_body_sub_T-B_overlay6-3, 
+.photo_body_sub_T-B_overlay6-4, .photo_body_sub_T-B_overlay6-5, .photo_body_sub_T-B_overlay6-6,
+.photo_body_sub_T-B_overlay7-1, .photo_body_sub_T-B_overlay7-2, .photo_body_sub_T-B_overlay7-3, 
+.photo_body_sub_T-B_overlay7-4, .photo_body_sub_T-B_overlay7-5, .photo_body_sub_T-B_overlay7-6,
+.photo_body_sub_T-B_overlay8-1, .photo_body_sub_T-B_overlay8-2, .photo_body_sub_T-B_overlay8-3, 
+.photo_body_sub_T-B_overlay8-4, .photo_body_sub_T-B_overlay8-5, .photo_body_sub_T-B_overlay8-6,
+.photo_body_sub_T-B_overlay9-1, .photo_body_sub_T-B_overlay9-2, .photo_body_sub_T-B_overlay9-3, 
+.photo_body_sub_T-B_overlay9-4, .photo_body_sub_T-B_overlay9-5, .photo_body_sub_T-B_overlay9-6,
+.photo_body_sub_T-B_overlay10-1, .photo_body_sub_T-B_overlay10-2, .photo_body_sub_T-B_overlay10-3, 
+.photo_body_sub_T-B_overlay10-4, .photo_body_sub_T-B_overlay10-5, .photo_body_sub_T-B_overlay10-6   {
     width: 100%;
     height: 20%;
 }
 
-.core_photo_body_sub_T-B_overlay1-1, .core_photo_body_sub_T-B_overlay1-2, .core_photo_body_sub_T-B_overlay1-3, .core_photo_body_sub_T-B_overlay1-4, .core_photo_body_sub_T-B_overlay1-5, .core_photo_body_sub_T-B_overlay1-6, 
-.core_photo_body_sub_T-B_overlay2-1, .core_photo_body_sub_T-B_overlay2-2, .core_photo_body_sub_T-B_overlay2-3, .core_photo_body_sub_T-B_overlay2-4, .core_photo_body_sub_T-B_overlay2-5, .core_photo_body_sub_T-B_overlay2-6, 
-.core_photo_body_sub_T-B_overlay3-1, .core_photo_body_sub_T-B_overlay3-2, .core_photo_body_sub_T-B_overlay3-3, .core_photo_body_sub_T-B_overlay3-4, .core_photo_body_sub_T-B_overlay3-5, .core_photo_body_sub_T-B_overlay3-6, 
-.core_photo_body_sub_T-B_overlay4-1, .core_photo_body_sub_T-B_overlay4-2, .core_photo_body_sub_T-B_overlay4-3, .core_photo_body_sub_T-B_overlay4-4, .core_photo_body_sub_T-B_overlay4-5, .core_photo_body_sub_T-B_overlay4-6, 
-.core_photo_body_sub_T-B_overlay5-1, .core_photo_body_sub_T-B_overlay5-2, .core_photo_body_sub_T-B_overlay5-3, .core_photo_body_sub_T-B_overlay5-4, .core_photo_body_sub_T-B_overlay5-5, .core_photo_body_sub_T-B_overlay5-6, 
-.core_photo_body_sub_T-B_overlay6-1, .core_photo_body_sub_T-B_overlay6-2, .core_photo_body_sub_T-B_overlay6-3, .core_photo_body_sub_T-B_overlay6-4, .core_photo_body_sub_T-B_overlay6-5, .core_photo_body_sub_T-B_overlay6-6,
-.core_photo_body_sub_T-B_overlay7-1, .core_photo_body_sub_T-B_overlay7-2, .core_photo_body_sub_T-B_overlay7-3, .core_photo_body_sub_T-B_overlay7-4, .core_photo_body_sub_T-B_overlay7-5, .core_photo_body_sub_T-B_overlay7-6,
-.core_photo_body_sub_T-B_overlay8-1, .core_photo_body_sub_T-B_overlay8-2, .core_photo_body_sub_T-B_overlay8-3, .core_photo_body_sub_T-B_overlay8-4, .core_photo_body_sub_T-B_overlay8-5, .core_photo_body_sub_T-B_overlay8-6,
-.core_photo_body_sub_T-B_overlay9-1, .core_photo_body_sub_T-B_overlay9-2, .core_photo_body_sub_T-B_overlay9-3, .core_photo_body_sub_T-B_overlay9-4, .core_photo_body_sub_T-B_overlay9-5, .core_photo_body_sub_T-B_overlay9-6,
-.core_photo_body_sub_T-B_overlay10-1, .core_photo_body_sub_T-B_overlay10-2, .core_photo_body_sub_T-B_overlay10-3, .core_photo_body_sub_T-B_overlay10-4, .core_photo_body_sub_T-B_overlay10-5, .core_photo_body_sub_T-B_overlay10-6 {
+.core_photo_body_sub_T-B_overlay1-1, .core_photo_body_sub_T-B_overlay1-2, .core_photo_body_sub_T-B_overlay1-3, 
+.core_photo_body_sub_T-B_overlay1-4, .core_photo_body_sub_T-B_overlay1-5, .core_photo_body_sub_T-B_overlay1-6, 
+.core_photo_body_sub_T-B_overlay2-1, .core_photo_body_sub_T-B_overlay2-2, .core_photo_body_sub_T-B_overlay2-3, 
+.core_photo_body_sub_T-B_overlay2-4, .core_photo_body_sub_T-B_overlay2-5, .core_photo_body_sub_T-B_overlay2-6, 
+.core_photo_body_sub_T-B_overlay3-1, .core_photo_body_sub_T-B_overlay3-2, .core_photo_body_sub_T-B_overlay3-3, 
+.core_photo_body_sub_T-B_overlay3-4, .core_photo_body_sub_T-B_overlay3-5, .core_photo_body_sub_T-B_overlay3-6, 
+.core_photo_body_sub_T-B_overlay4-1, .core_photo_body_sub_T-B_overlay4-2, .core_photo_body_sub_T-B_overlay4-3, 
+.core_photo_body_sub_T-B_overlay4-4, .core_photo_body_sub_T-B_overlay4-5, .core_photo_body_sub_T-B_overlay4-6, 
+.core_photo_body_sub_T-B_overlay5-1, .core_photo_body_sub_T-B_overlay5-2, .core_photo_body_sub_T-B_overlay5-3, 
+.core_photo_body_sub_T-B_overlay5-4, .core_photo_body_sub_T-B_overlay5-5, .core_photo_body_sub_T-B_overlay5-6, 
+.core_photo_body_sub_T-B_overlay6-1, .core_photo_body_sub_T-B_overlay6-2, .core_photo_body_sub_T-B_overlay6-3, 
+.core_photo_body_sub_T-B_overlay6-4, .core_photo_body_sub_T-B_overlay6-5, .core_photo_body_sub_T-B_overlay6-6,
+.core_photo_body_sub_T-B_overlay7-1, .core_photo_body_sub_T-B_overlay7-2, .core_photo_body_sub_T-B_overlay7-3, 
+.core_photo_body_sub_T-B_overlay7-4, .core_photo_body_sub_T-B_overlay7-5, .core_photo_body_sub_T-B_overlay7-6,
+.core_photo_body_sub_T-B_overlay8-1, .core_photo_body_sub_T-B_overlay8-2, .core_photo_body_sub_T-B_overlay8-3, 
+.core_photo_body_sub_T-B_overlay8-4, .core_photo_body_sub_T-B_overlay8-5, .core_photo_body_sub_T-B_overlay8-6,
+.core_photo_body_sub_T-B_overlay9-1, .core_photo_body_sub_T-B_overlay9-2, .core_photo_body_sub_T-B_overlay9-3, 
+.core_photo_body_sub_T-B_overlay9-4, .core_photo_body_sub_T-B_overlay9-5, .core_photo_body_sub_T-B_overlay9-6,
+.core_photo_body_sub_T-B_overlay10-1, .core_photo_body_sub_T-B_overlay10-2, .core_photo_body_sub_T-B_overlay10-3, 
+.core_photo_body_sub_T-B_overlay10-4, .core_photo_body_sub_T-B_overlay10-5, .core_photo_body_sub_T-B_overlay10-6 {
     width: 80%;
     height: 100%;
     font-size: 3rem;
 }
 
-.desc_body_sub_T-B_overlay1, .desc_body_sub_T-B_overlay2, .desc_body_sub_T-B_overlay3, .desc_body_sub_T-B_overlay4, .desc_body_sub_T-B_overlay5, .desc_body_sub_T-B_overlay6, .desc_body_sub_T-B_overlay7, .desc_body_sub_T-B_overlay8, .desc_body_sub_T-B_overlay9, .desc_body_sub_T-B_overlay10  {
+.desc_body_sub_T-B_overlay1, .desc_body_sub_T-B_overlay2, .desc_body_sub_T-B_overlay3, .desc_body_sub_T-B_overlay4, .desc_body_sub_T-B_overlay5, 
+.desc_body_sub_T-B_overlay6, .desc_body_sub_T-B_overlay7, .desc_body_sub_T-B_overlay8, .desc_body_sub_T-B_overlay9, .desc_body_sub_T-B_overlay10  {
     width: 100%;
     height: 60%;
 }
 
-.FG_photo_body_sub_T-B_overlay1-1, .FG_photo_body_sub_T-B_overlay1-2, .FG_photo_body_sub_T-B_overlay1-3, .FG_photo_body_sub_T-B_overlay1-4, .FG_photo_body_sub_T-B_overlay1-5, .FG_photo_body_sub_T-B_overlay1-6, 
-.FG_photo_body_sub_T-B_overlay2-1, .FG_photo_body_sub_T-B_overlay2-2, .FG_photo_body_sub_T-B_overlay2-3, .FG_photo_body_sub_T-B_overlay2-4, .FG_photo_body_sub_T-B_overlay2-5, .FG_photo_body_sub_T-B_overlay2-6, 
-.FG_photo_body_sub_T-B_overlay3-1, .FG_photo_body_sub_T-B_overlay3-2, .FG_photo_body_sub_T-B_overlay3-3, .FG_photo_body_sub_T-B_overlay3-4, .FG_photo_body_sub_T-B_overlay3-5, .FG_photo_body_sub_T-B_overlay3-6, 
-.FG_photo_body_sub_T-B_overlay4-1, .FG_photo_body_sub_T-B_overlay4-2, .FG_photo_body_sub_T-B_overlay4-3, .FG_photo_body_sub_T-B_overlay4-4, .FG_photo_body_sub_T-B_overlay4-5, .FG_photo_body_sub_T-B_overlay4-6, 
-.FG_photo_body_sub_T-B_overlay5-1, .FG_photo_body_sub_T-B_overlay5-2, .FG_photo_body_sub_T-B_overlay5-3, .FG_photo_body_sub_T-B_overlay5-4, .FG_photo_body_sub_T-B_overlay5-5, .FG_photo_body_sub_T-B_overlay5-6, 
-.FG_photo_body_sub_T-B_overlay6-1, .FG_photo_body_sub_T-B_overlay6-2, .FG_photo_body_sub_T-B_overlay6-3, .FG_photo_body_sub_T-B_overlay6-4, .FG_photo_body_sub_T-B_overlay6-5, .FG_photo_body_sub_T-B_overlay6-6,
-.FG_photo_body_sub_T-B_overlay7-1, .FG_photo_body_sub_T-B_overlay7-2, .FG_photo_body_sub_T-B_overlay7-3, .FG_photo_body_sub_T-B_overlay7-4, .FG_photo_body_sub_T-B_overlay7-5, .FG_photo_body_sub_T-B_overlay7-6,
-.FG_photo_body_sub_T-B_overlay8-1, .FG_photo_body_sub_T-B_overlay8-2, .FG_photo_body_sub_T-B_overlay8-3, .FG_photo_body_sub_T-B_overlay8-4, .FG_photo_body_sub_T-B_overlay8-5, .FG_photo_body_sub_T-B_overlay8-6,
-.FG_photo_body_sub_T-B_overlay9-1, .FG_photo_body_sub_T-B_overlay9-2, .FG_photo_body_sub_T-B_overlay9-3, .FG_photo_body_sub_T-B_overlay9-4, .FG_photo_body_sub_T-B_overlay9-5, .FG_photo_body_sub_T-B_overlay9-6,
-.FG_photo_body_sub_T-B_overlay10-1, .FG_photo_body_sub_T-B_overlay10-2, .FG_photo_body_sub_T-B_overlay10-3, .FG_photo_body_sub_T-B_overlay10-4, .FG_photo_body_sub_T-B_overlay10-5, .FG_photo_body_sub_T-B_overlay10-6 {
+.FG_photo_body_sub_T-B_overlay1-1, .FG_photo_body_sub_T-B_overlay1-2, .FG_photo_body_sub_T-B_overlay1-3, 
+.FG_photo_body_sub_T-B_overlay1-4, .FG_photo_body_sub_T-B_overlay1-5, .FG_photo_body_sub_T-B_overlay1-6, 
+.FG_photo_body_sub_T-B_overlay2-1, .FG_photo_body_sub_T-B_overlay2-2, .FG_photo_body_sub_T-B_overlay2-3, 
+.FG_photo_body_sub_T-B_overlay2-4, .FG_photo_body_sub_T-B_overlay2-5, .FG_photo_body_sub_T-B_overlay2-6, 
+.FG_photo_body_sub_T-B_overlay3-1, .FG_photo_body_sub_T-B_overlay3-2, .FG_photo_body_sub_T-B_overlay3-3, 
+.FG_photo_body_sub_T-B_overlay3-4, .FG_photo_body_sub_T-B_overlay3-5, .FG_photo_body_sub_T-B_overlay3-6, 
+.FG_photo_body_sub_T-B_overlay4-1, .FG_photo_body_sub_T-B_overlay4-2, .FG_photo_body_sub_T-B_overlay4-3, 
+.FG_photo_body_sub_T-B_overlay4-4, .FG_photo_body_sub_T-B_overlay4-5, .FG_photo_body_sub_T-B_overlay4-6, 
+.FG_photo_body_sub_T-B_overlay5-1, .FG_photo_body_sub_T-B_overlay5-2, .FG_photo_body_sub_T-B_overlay5-3, 
+.FG_photo_body_sub_T-B_overlay5-4, .FG_photo_body_sub_T-B_overlay5-5, .FG_photo_body_sub_T-B_overlay5-6, 
+.FG_photo_body_sub_T-B_overlay6-1, .FG_photo_body_sub_T-B_overlay6-2, .FG_photo_body_sub_T-B_overlay6-3, 
+.FG_photo_body_sub_T-B_overlay6-4, .FG_photo_body_sub_T-B_overlay6-5, .FG_photo_body_sub_T-B_overlay6-6,
+.FG_photo_body_sub_T-B_overlay7-1, .FG_photo_body_sub_T-B_overlay7-2, .FG_photo_body_sub_T-B_overlay7-3, 
+.FG_photo_body_sub_T-B_overlay7-4, .FG_photo_body_sub_T-B_overlay7-5, .FG_photo_body_sub_T-B_overlay7-6,
+.FG_photo_body_sub_T-B_overlay8-1, .FG_photo_body_sub_T-B_overlay8-2, .FG_photo_body_sub_T-B_overlay8-3, 
+.FG_photo_body_sub_T-B_overlay8-4, .FG_photo_body_sub_T-B_overlay8-5, .FG_photo_body_sub_T-B_overlay8-6,
+.FG_photo_body_sub_T-B_overlay9-1, .FG_photo_body_sub_T-B_overlay9-2, .FG_photo_body_sub_T-B_overlay9-3, 
+.FG_photo_body_sub_T-B_overlay9-4, .FG_photo_body_sub_T-B_overlay9-5, .FG_photo_body_sub_T-B_overlay9-6,
+.FG_photo_body_sub_T-B_overlay10-1, .FG_photo_body_sub_T-B_overlay10-2, .FG_photo_body_sub_T-B_overlay10-3, 
+.FG_photo_body_sub_T-B_overlay10-4, .FG_photo_body_sub_T-B_overlay10-5, .FG_photo_body_sub_T-B_overlay10-6 {
      width: 7%;
      height: 30%;
      margin-right: .7rem;
      font-size: 1.5rem;
 }
 
-.FD_photo_body_sub_T-B_overlay1-1, .FD_photo_body_sub_T-B_overlay1-2, .FD_photo_body_sub_T-B_overlay1-3, .FD_photo_body_sub_T-B_overlay1-4, .FD_photo_body_sub_T-B_overlay1-5, .FD_photo_body_sub_T-B_overlay1-6,
-.FD_photo_body_sub_T-B_overlay2-1, .FD_photo_body_sub_T-B_overlay2-2, .FD_photo_body_sub_T-B_overlay2-3, .FD_photo_body_sub_T-B_overlay2-4, .FD_photo_body_sub_T-B_overlay2-5, .FD_photo_body_sub_T-B_overlay2-6,
-.FD_photo_body_sub_T-B_overlay3-1, .FD_photo_body_sub_T-B_overlay3-2, .FD_photo_body_sub_T-B_overlay3-3, .FD_photo_body_sub_T-B_overlay3-4, .FD_photo_body_sub_T-B_overlay3-5, .FD_photo_body_sub_T-B_overlay3-6,
-.FD_photo_body_sub_T-B_overlay4-1, .FD_photo_body_sub_T-B_overlay4-2, .FD_photo_body_sub_T-B_overlay4-3, .FD_photo_body_sub_T-B_overlay4-4, .FD_photo_body_sub_T-B_overlay4-5, .FD_photo_body_sub_T-B_overlay4-6,
-.FD_photo_body_sub_T-B_overlay5-1, .FD_photo_body_sub_T-B_overlay5-2, .FD_photo_body_sub_T-B_overlay5-3, .FD_photo_body_sub_T-B_overlay5-4, .FD_photo_body_sub_T-B_overlay5-5, .FD_photo_body_sub_T-B_overlay5-6,
-.FD_photo_body_sub_T-B_overlay6-1, .FD_photo_body_sub_T-B_overlay6-2, .FD_photo_body_sub_T-B_overlay6-3, .FD_photo_body_sub_T-B_overlay6-4, .FD_photo_body_sub_T-B_overlay6-5, .FD_photo_body_sub_T-B_overlay6-6,
-.FD_photo_body_sub_T-B_overlay7-1, .FD_photo_body_sub_T-B_overlay7-2, .FD_photo_body_sub_T-B_overlay7-3, .FD_photo_body_sub_T-B_overlay7-4, .FD_photo_body_sub_T-B_overlay7-5, .FD_photo_body_sub_T-B_overlay7-6,
-.FD_photo_body_sub_T-B_overlay8-1, .FD_photo_body_sub_T-B_overlay8-2, .FD_photo_body_sub_T-B_overlay8-3, .FD_photo_body_sub_T-B_overlay8-4, .FD_photo_body_sub_T-B_overlay8-5, .FD_photo_body_sub_T-B_overlay8-6,
-.FD_photo_body_sub_T-B_overlay9-1, .FD_photo_body_sub_T-B_overlay9-2, .FD_photo_body_sub_T-B_overlay9-3, .FD_photo_body_sub_T-B_overlay9-4, .FD_photo_body_sub_T-B_overlay9-5, .FD_photo_body_sub_T-B_overlay9-6,
-.FD_photo_body_sub_T-B_overlay10-1, .FD_photo_body_sub_T-B_overlay10-2, .FD_photo_body_sub_T-B_overlay10-3, .FD_photo_body_sub_T-B_overlay10-4, .FD_photo_body_sub_T-B_overlay10-5, .FD_photo_body_sub_T-B_overlay10-6 {
+.FD_photo_body_sub_T-B_overlay1-1, .FD_photo_body_sub_T-B_overlay1-2, .FD_photo_body_sub_T-B_overlay1-3, 
+.FD_photo_body_sub_T-B_overlay1-4, .FD_photo_body_sub_T-B_overlay1-5, .FD_photo_body_sub_T-B_overlay1-6,
+.FD_photo_body_sub_T-B_overlay2-1, .FD_photo_body_sub_T-B_overlay2-2, .FD_photo_body_sub_T-B_overlay2-3, 
+.FD_photo_body_sub_T-B_overlay2-4, .FD_photo_body_sub_T-B_overlay2-5, .FD_photo_body_sub_T-B_overlay2-6,
+.FD_photo_body_sub_T-B_overlay3-1, .FD_photo_body_sub_T-B_overlay3-2, .FD_photo_body_sub_T-B_overlay3-3, 
+.FD_photo_body_sub_T-B_overlay3-4, .FD_photo_body_sub_T-B_overlay3-5, .FD_photo_body_sub_T-B_overlay3-6,
+.FD_photo_body_sub_T-B_overlay4-1, .FD_photo_body_sub_T-B_overlay4-2, .FD_photo_body_sub_T-B_overlay4-3, 
+.FD_photo_body_sub_T-B_overlay4-4, .FD_photo_body_sub_T-B_overlay4-5, .FD_photo_body_sub_T-B_overlay4-6,
+.FD_photo_body_sub_T-B_overlay5-1, .FD_photo_body_sub_T-B_overlay5-2, .FD_photo_body_sub_T-B_overlay5-3, 
+.FD_photo_body_sub_T-B_overlay5-4, .FD_photo_body_sub_T-B_overlay5-5, .FD_photo_body_sub_T-B_overlay5-6,
+.FD_photo_body_sub_T-B_overlay6-1, .FD_photo_body_sub_T-B_overlay6-2, .FD_photo_body_sub_T-B_overlay6-3, 
+.FD_photo_body_sub_T-B_overlay6-4, .FD_photo_body_sub_T-B_overlay6-5, .FD_photo_body_sub_T-B_overlay6-6,
+.FD_photo_body_sub_T-B_overlay7-1, .FD_photo_body_sub_T-B_overlay7-2, .FD_photo_body_sub_T-B_overlay7-3, 
+.FD_photo_body_sub_T-B_overlay7-4, .FD_photo_body_sub_T-B_overlay7-5, .FD_photo_body_sub_T-B_overlay7-6,
+.FD_photo_body_sub_T-B_overlay8-1, .FD_photo_body_sub_T-B_overlay8-2, .FD_photo_body_sub_T-B_overlay8-3, 
+.FD_photo_body_sub_T-B_overlay8-4, .FD_photo_body_sub_T-B_overlay8-5, .FD_photo_body_sub_T-B_overlay8-6,
+.FD_photo_body_sub_T-B_overlay9-1, .FD_photo_body_sub_T-B_overlay9-2, .FD_photo_body_sub_T-B_overlay9-3, 
+.FD_photo_body_sub_T-B_overlay9-4, .FD_photo_body_sub_T-B_overlay9-5, .FD_photo_body_sub_T-B_overlay9-6,
+.FD_photo_body_sub_T-B_overlay10-1, .FD_photo_body_sub_T-B_overlay10-2, .FD_photo_body_sub_T-B_overlay10-3, 
+.FD_photo_body_sub_T-B_overlay10-4, .FD_photo_body_sub_T-B_overlay10-5, .FD_photo_body_sub_T-B_overlay10-6 {
     width: 7%;
     height: 30%;
     margin-left: .7rem;
     font-size: 1.5rem;
 }
 
-.price_desc_body_sub_T-B_overlay1, .price_desc_body_sub_T-B_overlay2, .price_desc_body_sub_T-B_overlay3, .price_desc_body_sub_T-B_overlay4, .price_desc_body_sub_T-B_overlay5, .price_desc_body_sub_T-B_overlay6, .price_desc_body_sub_T-B_overlay7, .price_desc_body_sub_T-B_overlay8, .price_desc_body_sub_T-B_overlay9, .price_desc_body_sub_T-B_overlay10  {
+.price_desc_body_sub_T-B_overlay1, .price_desc_body_sub_T-B_overlay2, .price_desc_body_sub_T-B_overlay3, .price_desc_body_sub_T-B_overlay4, 
+.price_desc_body_sub_T-B_overlay5, .price_desc_body_sub_T-B_overlay6, .price_desc_body_sub_T-B_overlay7, 
+.price_desc_body_sub_T-B_overlay8, .price_desc_body_sub_T-B_overlay9, .price_desc_body_sub_T-B_overlay10  {
     width: 100%;
     height: 17%;
     font-size: 1.2rem;
 }
 
-.writing_text_desc_body_sub_T-B_overlay1, .writing_text_desc_body_sub_T-B_overlay2, .writing_text_desc_body_sub_T-B_overlay3, .writing_text_desc_body_sub_T-B_overlay4, .writing_text_desc_body_sub_T-B_overlay5, .writing_text_desc_body_sub_T-B_overlay6, .writing_text_desc_body_sub_T-B_overlay7, .writing_text_desc_body_sub_T-B_overlay8, .writing_text_desc_body_sub_T-B_overlay9, .writing_text_desc_body_sub_T-B_overlay10  {
+.writing_text_desc_body_sub_T-B_overlay1, .writing_text_desc_body_sub_T-B_overlay2, .writing_text_desc_body_sub_T-B_overlay3, 
+.writing_text_desc_body_sub_T-B_overlay4, .writing_text_desc_body_sub_T-B_overlay5, .writing_text_desc_body_sub_T-B_overlay6, 
+.writing_text_desc_body_sub_T-B_overlay7, .writing_text_desc_body_sub_T-B_overlay8, 
+.writing_text_desc_body_sub_T-B_overlay9, .writing_text_desc_body_sub_T-B_overlay10  {
     width: 90%;
     height: 85%;
     font-size: 1rem;
@@ -1477,7 +1634,8 @@
     height: 170vh;
 }
 
-.sub_T-B_overlay1, .sub_T-B_overlay2, .sub_T-B_overlay3, .sub_T-B_overlay4, .sub_T-B_overlay5, .sub_T-B_overlay6,  .sub_T-B_overlay7,  .sub_T-B_overlay8,  .sub_T-B_overlay9,  .sub_T-B_overlay10   {
+.sub_T-B_overlay1, .sub_T-B_overlay2, .sub_T-B_overlay3, .sub_T-B_overlay4, .sub_T-B_overlay5, 
+.sub_T-B_overlay6,  .sub_T-B_overlay7,  .sub_T-B_overlay8,  .sub_T-B_overlay9,  .sub_T-B_overlay10   {
     width: 95%;
     height: 95%;
     background-color: rgb(7, 7, 97);
@@ -1486,7 +1644,8 @@
     margin-left: -0.3rem;
 }
 
-.head_sub_T-B_overlay1, .head_sub_T-B_overlay2, .head_sub_T-B_overlay3, .head_sub_T-B_overlay4, .head_sub_T-B_overlay5, .head_sub_T-B_overlay6, .head_sub_T-B_overlay7, .head_sub_T-B_overlay8, .head_sub_T-B_overlay9, .head_sub_T-B_overlay10  {
+.head_sub_T-B_overlay1, .head_sub_T-B_overlay2, .head_sub_T-B_overlay3, .head_sub_T-B_overlay4, .head_sub_T-B_overlay5, 
+.head_sub_T-B_overlay6, .head_sub_T-B_overlay7, .head_sub_T-B_overlay8, .head_sub_T-B_overlay9, .head_sub_T-B_overlay10  {
     width: 100%;
     height: 8%;
     background-color: rgb(7, 7, 97);
@@ -1496,93 +1655,142 @@
     flex-direction: column-reverse;
 }
 
-.title_head_sub_T-B_overlay1, .title_head_sub_T-B_overlay2, .title_head_sub_T-B_overlay3, .title_head_sub_T-B_overlay4, .title_head_sub_T-B_overlay5, .title_head_sub_T-B_overlay6,  .title_head_sub_T-B_overlay7,  .title_head_sub_T-B_overlay8,  .title_head_sub_T-B_overlay9,  .title_head_sub_T-B_overlay10   {
+.title_head_sub_T-B_overlay1, .title_head_sub_T-B_overlay2, .title_head_sub_T-B_overlay3, .title_head_sub_T-B_overlay4, .title_head_sub_T-B_overlay5, 
+.title_head_sub_T-B_overlay6,  .title_head_sub_T-B_overlay7,  .title_head_sub_T-B_overlay8,  .title_head_sub_T-B_overlay9,  .title_head_sub_T-B_overlay10   {
     width: 100%;
     height: 100%;
     font-size: 1.4rem;
     letter-spacing: .1rem;
 }
 
-.body_sub_T-B_overlay1, .body_sub_T-B_overlay2, .body_sub_T-B_overlay3, .body_sub_T-B_overlay4, .body_sub_T-B_overlay5, .body_sub_T-B_overlay6, .body_sub_T-B_overlay7, .body_sub_T-B_overlay8, .body_sub_T-B_overlay9, .body_sub_T-B_overlay10 {
+.body_sub_T-B_overlay1, .body_sub_T-B_overlay2, .body_sub_T-B_overlay3, .body_sub_T-B_overlay4, .body_sub_T-B_overlay5, 
+.body_sub_T-B_overlay6, .body_sub_T-B_overlay7, .body_sub_T-B_overlay8, .body_sub_T-B_overlay9, .body_sub_T-B_overlay10 {
     width: 100%;
     height: 92%;
     display: flex;
     flex-direction: column;
 }
 
-.photo_body_sub_T-B_overlay1-1, .photo_body_sub_T-B_overlay1-2, .photo_body_sub_T-B_overlay1-3, .photo_body_sub_T-B_overlay1-4, .photo_body_sub_T-B_overlay1-5, .photo_body_sub_T-B_overlay1-6, 
-.photo_body_sub_T-B_overlay2-1, .photo_body_sub_T-B_overlay2-2, .photo_body_sub_T-B_overlay2-3, .photo_body_sub_T-B_overlay2-4, .photo_body_sub_T-B_overlay2-5, .photo_body_sub_T-B_overlay2-6, 
-.photo_body_sub_T-B_overlay3-1, .photo_body_sub_T-B_overlay3-2, .photo_body_sub_T-B_overlay3-3, .photo_body_sub_T-B_overlay3-4, .photo_body_sub_T-B_overlay3-5, .photo_body_sub_T-B_overlay3-6, 
-.photo_body_sub_T-B_overlay4-1, .photo_body_sub_T-B_overlay4-2, .photo_body_sub_T-B_overlay4-3, .photo_body_sub_T-B_overlay4-4, .photo_body_sub_T-B_overlay4-5, .photo_body_sub_T-B_overlay4-6, 
-.photo_body_sub_T-B_overlay5-1, .photo_body_sub_T-B_overlay5-2, .photo_body_sub_T-B_overlay5-3, .photo_body_sub_T-B_overlay5-4, .photo_body_sub_T-B_overlay5-5, .photo_body_sub_T-B_overlay5-6, 
-.photo_body_sub_T-B_overlay6-1, .photo_body_sub_T-B_overlay6-2, .photo_body_sub_T-B_overlay6-3, .photo_body_sub_T-B_overlay6-4, .photo_body_sub_T-B_overlay6-5, .photo_body_sub_T-B_overlay6-6,
-.photo_body_sub_T-B_overlay7-1, .photo_body_sub_T-B_overlay7-2, .photo_body_sub_T-B_overlay7-3, .photo_body_sub_T-B_overlay7-4, .photo_body_sub_T-B_overlay7-5, .photo_body_sub_T-B_overlay7-6,
-.photo_body_sub_T-B_overlay8-1, .photo_body_sub_T-B_overlay8-2, .photo_body_sub_T-B_overlay8-3, .photo_body_sub_T-B_overlay8-4, .photo_body_sub_T-B_overlay8-5, .photo_body_sub_T-B_overlay8-6,
-.photo_body_sub_T-B_overlay9-1, .photo_body_sub_T-B_overlay9-2, .photo_body_sub_T-B_overlay9-3, .photo_body_sub_T-B_overlay9-4, .photo_body_sub_T-B_overlay9-5, .photo_body_sub_T-B_overlay9-6,
-.photo_body_sub_T-B_overlay10-1, .photo_body_sub_T-B_overlay10-2, .photo_body_sub_T-B_overlay10-3, .photo_body_sub_T-B_overlay10-4, .photo_body_sub_T-B_overlay10-5, .photo_body_sub_T-B_overlay10-6   {
+.photo_body_sub_T-B_overlay1-1, .photo_body_sub_T-B_overlay1-2, .photo_body_sub_T-B_overlay1-3, 
+.photo_body_sub_T-B_overlay1-4, .photo_body_sub_T-B_overlay1-5, .photo_body_sub_T-B_overlay1-6, 
+.photo_body_sub_T-B_overlay2-1, .photo_body_sub_T-B_overlay2-2, .photo_body_sub_T-B_overlay2-3, 
+.photo_body_sub_T-B_overlay2-4, .photo_body_sub_T-B_overlay2-5, .photo_body_sub_T-B_overlay2-6, 
+.photo_body_sub_T-B_overlay3-1, .photo_body_sub_T-B_overlay3-2, .photo_body_sub_T-B_overlay3-3, 
+.photo_body_sub_T-B_overlay3-4, .photo_body_sub_T-B_overlay3-5, .photo_body_sub_T-B_overlay3-6, 
+.photo_body_sub_T-B_overlay4-1, .photo_body_sub_T-B_overlay4-2, .photo_body_sub_T-B_overlay4-3, 
+.photo_body_sub_T-B_overlay4-4, .photo_body_sub_T-B_overlay4-5, .photo_body_sub_T-B_overlay4-6, 
+.photo_body_sub_T-B_overlay5-1, .photo_body_sub_T-B_overlay5-2, .photo_body_sub_T-B_overlay5-3, 
+.photo_body_sub_T-B_overlay5-4, .photo_body_sub_T-B_overlay5-5, .photo_body_sub_T-B_overlay5-6, 
+.photo_body_sub_T-B_overlay6-1, .photo_body_sub_T-B_overlay6-2, .photo_body_sub_T-B_overlay6-3, 
+.photo_body_sub_T-B_overlay6-4, .photo_body_sub_T-B_overlay6-5, .photo_body_sub_T-B_overlay6-6,
+.photo_body_sub_T-B_overlay7-1, .photo_body_sub_T-B_overlay7-2, .photo_body_sub_T-B_overlay7-3, 
+.photo_body_sub_T-B_overlay7-4, .photo_body_sub_T-B_overlay7-5, .photo_body_sub_T-B_overlay7-6,
+.photo_body_sub_T-B_overlay8-1, .photo_body_sub_T-B_overlay8-2, .photo_body_sub_T-B_overlay8-3, 
+.photo_body_sub_T-B_overlay8-4, .photo_body_sub_T-B_overlay8-5, .photo_body_sub_T-B_overlay8-6,
+.photo_body_sub_T-B_overlay9-1, .photo_body_sub_T-B_overlay9-2, .photo_body_sub_T-B_overlay9-3, 
+.photo_body_sub_T-B_overlay9-4, .photo_body_sub_T-B_overlay9-5, .photo_body_sub_T-B_overlay9-6,
+.photo_body_sub_T-B_overlay10-1, .photo_body_sub_T-B_overlay10-2, .photo_body_sub_T-B_overlay10-3, 
+.photo_body_sub_T-B_overlay10-4, .photo_body_sub_T-B_overlay10-5, .photo_body_sub_T-B_overlay10-6   {
     width: 100%;
     height: 20%;
 }
 
-.core_photo_body_sub_T-B_overlay1-1, .core_photo_body_sub_T-B_overlay1-2, .core_photo_body_sub_T-B_overlay1-3, .core_photo_body_sub_T-B_overlay1-4, .core_photo_body_sub_T-B_overlay1-5, .core_photo_body_sub_T-B_overlay1-6, 
-.core_photo_body_sub_T-B_overlay2-1, .core_photo_body_sub_T-B_overlay2-2, .core_photo_body_sub_T-B_overlay2-3, .core_photo_body_sub_T-B_overlay2-4, .core_photo_body_sub_T-B_overlay2-5, .core_photo_body_sub_T-B_overlay2-6, 
-.core_photo_body_sub_T-B_overlay3-1, .core_photo_body_sub_T-B_overlay3-2, .core_photo_body_sub_T-B_overlay3-3, .core_photo_body_sub_T-B_overlay3-4, .core_photo_body_sub_T-B_overlay3-5, .core_photo_body_sub_T-B_overlay3-6, 
-.core_photo_body_sub_T-B_overlay4-1, .core_photo_body_sub_T-B_overlay4-2, .core_photo_body_sub_T-B_overlay4-3, .core_photo_body_sub_T-B_overlay4-4, .core_photo_body_sub_T-B_overlay4-5, .core_photo_body_sub_T-B_overlay4-6, 
-.core_photo_body_sub_T-B_overlay5-1, .core_photo_body_sub_T-B_overlay5-2, .core_photo_body_sub_T-B_overlay5-3, .core_photo_body_sub_T-B_overlay5-4, .core_photo_body_sub_T-B_overlay5-5, .core_photo_body_sub_T-B_overlay5-6, 
-.core_photo_body_sub_T-B_overlay6-1, .core_photo_body_sub_T-B_overlay6-2, .core_photo_body_sub_T-B_overlay6-3, .core_photo_body_sub_T-B_overlay6-4, .core_photo_body_sub_T-B_overlay6-5, .core_photo_body_sub_T-B_overlay6-6,
-.core_photo_body_sub_T-B_overlay7-1, .core_photo_body_sub_T-B_overlay7-2, .core_photo_body_sub_T-B_overlay7-3, .core_photo_body_sub_T-B_overlay7-4, .core_photo_body_sub_T-B_overlay7-5, .core_photo_body_sub_T-B_overlay7-6,
-.core_photo_body_sub_T-B_overlay8-1, .core_photo_body_sub_T-B_overlay8-2, .core_photo_body_sub_T-B_overlay8-3, .core_photo_body_sub_T-B_overlay8-4, .core_photo_body_sub_T-B_overlay8-5, .core_photo_body_sub_T-B_overlay8-6,
-.core_photo_body_sub_T-B_overlay9-1, .core_photo_body_sub_T-B_overlay9-2, .core_photo_body_sub_T-B_overlay9-3, .core_photo_body_sub_T-B_overlay9-4, .core_photo_body_sub_T-B_overlay9-5, .core_photo_body_sub_T-B_overlay9-6,
-.core_photo_body_sub_T-B_overlay10-1, .core_photo_body_sub_T-B_overlay10-2, .core_photo_body_sub_T-B_overlay10-3, .core_photo_body_sub_T-B_overlay10-4, .core_photo_body_sub_T-B_overlay10-5, .core_photo_body_sub_T-B_overlay10-6 {
+.core_photo_body_sub_T-B_overlay1-1, .core_photo_body_sub_T-B_overlay1-2, .core_photo_body_sub_T-B_overlay1-3, 
+.core_photo_body_sub_T-B_overlay1-4, .core_photo_body_sub_T-B_overlay1-5, .core_photo_body_sub_T-B_overlay1-6, 
+.core_photo_body_sub_T-B_overlay2-1, .core_photo_body_sub_T-B_overlay2-2, .core_photo_body_sub_T-B_overlay2-3, 
+.core_photo_body_sub_T-B_overlay2-4, .core_photo_body_sub_T-B_overlay2-5, .core_photo_body_sub_T-B_overlay2-6, 
+.core_photo_body_sub_T-B_overlay3-1, .core_photo_body_sub_T-B_overlay3-2, .core_photo_body_sub_T-B_overlay3-3, 
+.core_photo_body_sub_T-B_overlay3-4, .core_photo_body_sub_T-B_overlay3-5, .core_photo_body_sub_T-B_overlay3-6, 
+.core_photo_body_sub_T-B_overlay4-1, .core_photo_body_sub_T-B_overlay4-2, .core_photo_body_sub_T-B_overlay4-3, 
+.core_photo_body_sub_T-B_overlay4-4, .core_photo_body_sub_T-B_overlay4-5, .core_photo_body_sub_T-B_overlay4-6, 
+.core_photo_body_sub_T-B_overlay5-1, .core_photo_body_sub_T-B_overlay5-2, .core_photo_body_sub_T-B_overlay5-3, 
+.core_photo_body_sub_T-B_overlay5-4, .core_photo_body_sub_T-B_overlay5-5, .core_photo_body_sub_T-B_overlay5-6, 
+.core_photo_body_sub_T-B_overlay6-1, .core_photo_body_sub_T-B_overlay6-2, .core_photo_body_sub_T-B_overlay6-3, 
+.core_photo_body_sub_T-B_overlay6-4, .core_photo_body_sub_T-B_overlay6-5, .core_photo_body_sub_T-B_overlay6-6,
+.core_photo_body_sub_T-B_overlay7-1, .core_photo_body_sub_T-B_overlay7-2, .core_photo_body_sub_T-B_overlay7-3, 
+.core_photo_body_sub_T-B_overlay7-4, .core_photo_body_sub_T-B_overlay7-5, .core_photo_body_sub_T-B_overlay7-6,
+.core_photo_body_sub_T-B_overlay8-1, .core_photo_body_sub_T-B_overlay8-2, .core_photo_body_sub_T-B_overlay8-3, 
+.core_photo_body_sub_T-B_overlay8-4, .core_photo_body_sub_T-B_overlay8-5, .core_photo_body_sub_T-B_overlay8-6,
+.core_photo_body_sub_T-B_overlay9-1, .core_photo_body_sub_T-B_overlay9-2, .core_photo_body_sub_T-B_overlay9-3, 
+.core_photo_body_sub_T-B_overlay9-4, .core_photo_body_sub_T-B_overlay9-5, .core_photo_body_sub_T-B_overlay9-6,
+.core_photo_body_sub_T-B_overlay10-1, .core_photo_body_sub_T-B_overlay10-2, .core_photo_body_sub_T-B_overlay10-3, 
+.core_photo_body_sub_T-B_overlay10-4, .core_photo_body_sub_T-B_overlay10-5, .core_photo_body_sub_T-B_overlay10-6 {
     width: 80%;
     height: 100%;
     font-size: 3rem;
 }
 
-.desc_body_sub_T-B_overlay1, .desc_body_sub_T-B_overlay2, .desc_body_sub_T-B_overlay3, .desc_body_sub_T-B_overlay4, .desc_body_sub_T-B_overlay5, .desc_body_sub_T-B_overlay6, .desc_body_sub_T-B_overlay7, .desc_body_sub_T-B_overlay8, .desc_body_sub_T-B_overlay9, .desc_body_sub_T-B_overlay10  {
+.desc_body_sub_T-B_overlay1, .desc_body_sub_T-B_overlay2, .desc_body_sub_T-B_overlay3, .desc_body_sub_T-B_overlay4, 
+.desc_body_sub_T-B_overlay5, .desc_body_sub_T-B_overlay6, .desc_body_sub_T-B_overlay7, 
+.desc_body_sub_T-B_overlay8, .desc_body_sub_T-B_overlay9, .desc_body_sub_T-B_overlay10  {
     width: 100%;
     height: 60%;
 }
 
-.FG_photo_body_sub_T-B_overlay1-1, .FG_photo_body_sub_T-B_overlay1-2, .FG_photo_body_sub_T-B_overlay1-3, .FG_photo_body_sub_T-B_overlay1-4, .FG_photo_body_sub_T-B_overlay1-5, .FG_photo_body_sub_T-B_overlay1-6, 
-.FG_photo_body_sub_T-B_overlay2-1, .FG_photo_body_sub_T-B_overlay2-2, .FG_photo_body_sub_T-B_overlay2-3, .FG_photo_body_sub_T-B_overlay2-4, .FG_photo_body_sub_T-B_overlay2-5, .FG_photo_body_sub_T-B_overlay2-6, 
-.FG_photo_body_sub_T-B_overlay3-1, .FG_photo_body_sub_T-B_overlay3-2, .FG_photo_body_sub_T-B_overlay3-3, .FG_photo_body_sub_T-B_overlay3-4, .FG_photo_body_sub_T-B_overlay3-5, .FG_photo_body_sub_T-B_overlay3-6, 
-.FG_photo_body_sub_T-B_overlay4-1, .FG_photo_body_sub_T-B_overlay4-2, .FG_photo_body_sub_T-B_overlay4-3, .FG_photo_body_sub_T-B_overlay4-4, .FG_photo_body_sub_T-B_overlay4-5, .FG_photo_body_sub_T-B_overlay4-6, 
-.FG_photo_body_sub_T-B_overlay5-1, .FG_photo_body_sub_T-B_overlay5-2, .FG_photo_body_sub_T-B_overlay5-3, .FG_photo_body_sub_T-B_overlay5-4, .FG_photo_body_sub_T-B_overlay5-5, .FG_photo_body_sub_T-B_overlay5-6, 
-.FG_photo_body_sub_T-B_overlay6-1, .FG_photo_body_sub_T-B_overlay6-2, .FG_photo_body_sub_T-B_overlay6-3, .FG_photo_body_sub_T-B_overlay6-4, .FG_photo_body_sub_T-B_overlay6-5, .FG_photo_body_sub_T-B_overlay6-6,
-.FG_photo_body_sub_T-B_overlay7-1, .FG_photo_body_sub_T-B_overlay7-2, .FG_photo_body_sub_T-B_overlay7-3, .FG_photo_body_sub_T-B_overlay7-4, .FG_photo_body_sub_T-B_overlay7-5, .FG_photo_body_sub_T-B_overlay7-6,
-.FG_photo_body_sub_T-B_overlay8-1, .FG_photo_body_sub_T-B_overlay8-2, .FG_photo_body_sub_T-B_overlay8-3, .FG_photo_body_sub_T-B_overlay8-4, .FG_photo_body_sub_T-B_overlay8-5, .FG_photo_body_sub_T-B_overlay8-6,
-.FG_photo_body_sub_T-B_overlay9-1, .FG_photo_body_sub_T-B_overlay9-2, .FG_photo_body_sub_T-B_overlay9-3, .FG_photo_body_sub_T-B_overlay9-4, .FG_photo_body_sub_T-B_overlay9-5, .FG_photo_body_sub_T-B_overlay9-6,
-.FG_photo_body_sub_T-B_overlay10-1, .FG_photo_body_sub_T-B_overlay10-2, .FG_photo_body_sub_T-B_overlay10-3, .FG_photo_body_sub_T-B_overlay10-4, .FG_photo_body_sub_T-B_overlay10-5, .FG_photo_body_sub_T-B_overlay10-6 {
+.FG_photo_body_sub_T-B_overlay1-1, .FG_photo_body_sub_T-B_overlay1-2, .FG_photo_body_sub_T-B_overlay1-3, 
+.FG_photo_body_sub_T-B_overlay1-4, .FG_photo_body_sub_T-B_overlay1-5, .FG_photo_body_sub_T-B_overlay1-6, 
+.FG_photo_body_sub_T-B_overlay2-1, .FG_photo_body_sub_T-B_overlay2-2, .FG_photo_body_sub_T-B_overlay2-3, 
+.FG_photo_body_sub_T-B_overlay2-4, .FG_photo_body_sub_T-B_overlay2-5, .FG_photo_body_sub_T-B_overlay2-6, 
+.FG_photo_body_sub_T-B_overlay3-1, .FG_photo_body_sub_T-B_overlay3-2, .FG_photo_body_sub_T-B_overlay3-3, 
+.FG_photo_body_sub_T-B_overlay3-4, .FG_photo_body_sub_T-B_overlay3-5, .FG_photo_body_sub_T-B_overlay3-6, 
+.FG_photo_body_sub_T-B_overlay4-1, .FG_photo_body_sub_T-B_overlay4-2, .FG_photo_body_sub_T-B_overlay4-3, 
+.FG_photo_body_sub_T-B_overlay4-4, .FG_photo_body_sub_T-B_overlay4-5, .FG_photo_body_sub_T-B_overlay4-6, 
+.FG_photo_body_sub_T-B_overlay5-1, .FG_photo_body_sub_T-B_overlay5-2, .FG_photo_body_sub_T-B_overlay5-3, 
+.FG_photo_body_sub_T-B_overlay5-4, .FG_photo_body_sub_T-B_overlay5-5, .FG_photo_body_sub_T-B_overlay5-6, 
+.FG_photo_body_sub_T-B_overlay6-1, .FG_photo_body_sub_T-B_overlay6-2, .FG_photo_body_sub_T-B_overlay6-3, 
+.FG_photo_body_sub_T-B_overlay6-4, .FG_photo_body_sub_T-B_overlay6-5, .FG_photo_body_sub_T-B_overlay6-6,
+.FG_photo_body_sub_T-B_overlay7-1, .FG_photo_body_sub_T-B_overlay7-2, .FG_photo_body_sub_T-B_overlay7-3, 
+.FG_photo_body_sub_T-B_overlay7-4, .FG_photo_body_sub_T-B_overlay7-5, .FG_photo_body_sub_T-B_overlay7-6,
+.FG_photo_body_sub_T-B_overlay8-1, .FG_photo_body_sub_T-B_overlay8-2, .FG_photo_body_sub_T-B_overlay8-3, 
+.FG_photo_body_sub_T-B_overlay8-4, .FG_photo_body_sub_T-B_overlay8-5, .FG_photo_body_sub_T-B_overlay8-6,
+.FG_photo_body_sub_T-B_overlay9-1, .FG_photo_body_sub_T-B_overlay9-2, .FG_photo_body_sub_T-B_overlay9-3, 
+.FG_photo_body_sub_T-B_overlay9-4, .FG_photo_body_sub_T-B_overlay9-5, .FG_photo_body_sub_T-B_overlay9-6,
+.FG_photo_body_sub_T-B_overlay10-1, .FG_photo_body_sub_T-B_overlay10-2, .FG_photo_body_sub_T-B_overlay10-3, 
+.FG_photo_body_sub_T-B_overlay10-4, .FG_photo_body_sub_T-B_overlay10-5, .FG_photo_body_sub_T-B_overlay10-6 {
      width: 7%;
      height: 30%;
      margin-right: .7rem;
      font-size: 1.5rem;
 }
 
-.FD_photo_body_sub_T-B_overlay1-1, .FD_photo_body_sub_T-B_overlay1-2, .FD_photo_body_sub_T-B_overlay1-3, .FD_photo_body_sub_T-B_overlay1-4, .FD_photo_body_sub_T-B_overlay1-5, .FD_photo_body_sub_T-B_overlay1-6,
-.FD_photo_body_sub_T-B_overlay2-1, .FD_photo_body_sub_T-B_overlay2-2, .FD_photo_body_sub_T-B_overlay2-3, .FD_photo_body_sub_T-B_overlay2-4, .FD_photo_body_sub_T-B_overlay2-5, .FD_photo_body_sub_T-B_overlay2-6,
-.FD_photo_body_sub_T-B_overlay3-1, .FD_photo_body_sub_T-B_overlay3-2, .FD_photo_body_sub_T-B_overlay3-3, .FD_photo_body_sub_T-B_overlay3-4, .FD_photo_body_sub_T-B_overlay3-5, .FD_photo_body_sub_T-B_overlay3-6,
-.FD_photo_body_sub_T-B_overlay4-1, .FD_photo_body_sub_T-B_overlay4-2, .FD_photo_body_sub_T-B_overlay4-3, .FD_photo_body_sub_T-B_overlay4-4, .FD_photo_body_sub_T-B_overlay4-5, .FD_photo_body_sub_T-B_overlay4-6,
-.FD_photo_body_sub_T-B_overlay5-1, .FD_photo_body_sub_T-B_overlay5-2, .FD_photo_body_sub_T-B_overlay5-3, .FD_photo_body_sub_T-B_overlay5-4, .FD_photo_body_sub_T-B_overlay5-5, .FD_photo_body_sub_T-B_overlay5-6,
-.FD_photo_body_sub_T-B_overlay6-1, .FD_photo_body_sub_T-B_overlay6-2, .FD_photo_body_sub_T-B_overlay6-3, .FD_photo_body_sub_T-B_overlay6-4, .FD_photo_body_sub_T-B_overlay6-5, .FD_photo_body_sub_T-B_overlay6-6,
-.FD_photo_body_sub_T-B_overlay7-1, .FD_photo_body_sub_T-B_overlay7-2, .FD_photo_body_sub_T-B_overlay7-3, .FD_photo_body_sub_T-B_overlay7-4, .FD_photo_body_sub_T-B_overlay7-5, .FD_photo_body_sub_T-B_overlay7-6,
-.FD_photo_body_sub_T-B_overlay8-1, .FD_photo_body_sub_T-B_overlay8-2, .FD_photo_body_sub_T-B_overlay8-3, .FD_photo_body_sub_T-B_overlay8-4, .FD_photo_body_sub_T-B_overlay8-5, .FD_photo_body_sub_T-B_overlay8-6,
-.FD_photo_body_sub_T-B_overlay9-1, .FD_photo_body_sub_T-B_overlay9-2, .FD_photo_body_sub_T-B_overlay9-3, .FD_photo_body_sub_T-B_overlay9-4, .FD_photo_body_sub_T-B_overlay9-5, .FD_photo_body_sub_T-B_overlay9-6,
-.FD_photo_body_sub_T-B_overlay10-1, .FD_photo_body_sub_T-B_overlay10-2, .FD_photo_body_sub_T-B_overlay10-3, .FD_photo_body_sub_T-B_overlay10-4, .FD_photo_body_sub_T-B_overlay10-5, .FD_photo_body_sub_T-B_overlay10-6 {
+.FD_photo_body_sub_T-B_overlay1-1, .FD_photo_body_sub_T-B_overlay1-2, .FD_photo_body_sub_T-B_overlay1-3, 
+.FD_photo_body_sub_T-B_overlay1-4, .FD_photo_body_sub_T-B_overlay1-5, .FD_photo_body_sub_T-B_overlay1-6,
+.FD_photo_body_sub_T-B_overlay2-1, .FD_photo_body_sub_T-B_overlay2-2, .FD_photo_body_sub_T-B_overlay2-3, 
+.FD_photo_body_sub_T-B_overlay2-4, .FD_photo_body_sub_T-B_overlay2-5, .FD_photo_body_sub_T-B_overlay2-6,
+.FD_photo_body_sub_T-B_overlay3-1, .FD_photo_body_sub_T-B_overlay3-2, .FD_photo_body_sub_T-B_overlay3-3, 
+.FD_photo_body_sub_T-B_overlay3-4, .FD_photo_body_sub_T-B_overlay3-5, .FD_photo_body_sub_T-B_overlay3-6,
+.FD_photo_body_sub_T-B_overlay4-1, .FD_photo_body_sub_T-B_overlay4-2, .FD_photo_body_sub_T-B_overlay4-3, 
+.FD_photo_body_sub_T-B_overlay4-4, .FD_photo_body_sub_T-B_overlay4-5, .FD_photo_body_sub_T-B_overlay4-6,
+.FD_photo_body_sub_T-B_overlay5-1, .FD_photo_body_sub_T-B_overlay5-2, .FD_photo_body_sub_T-B_overlay5-3, 
+.FD_photo_body_sub_T-B_overlay5-4, .FD_photo_body_sub_T-B_overlay5-5, .FD_photo_body_sub_T-B_overlay5-6,
+.FD_photo_body_sub_T-B_overlay6-1, .FD_photo_body_sub_T-B_overlay6-2, .FD_photo_body_sub_T-B_overlay6-3, 
+.FD_photo_body_sub_T-B_overlay6-4, .FD_photo_body_sub_T-B_overlay6-5, .FD_photo_body_sub_T-B_overlay6-6,
+.FD_photo_body_sub_T-B_overlay7-1, .FD_photo_body_sub_T-B_overlay7-2, .FD_photo_body_sub_T-B_overlay7-3, 
+.FD_photo_body_sub_T-B_overlay7-4, .FD_photo_body_sub_T-B_overlay7-5, .FD_photo_body_sub_T-B_overlay7-6,
+.FD_photo_body_sub_T-B_overlay8-1, .FD_photo_body_sub_T-B_overlay8-2, .FD_photo_body_sub_T-B_overlay8-3, 
+.FD_photo_body_sub_T-B_overlay8-4, .FD_photo_body_sub_T-B_overlay8-5, .FD_photo_body_sub_T-B_overlay8-6,
+.FD_photo_body_sub_T-B_overlay9-1, .FD_photo_body_sub_T-B_overlay9-2, .FD_photo_body_sub_T-B_overlay9-3, 
+.FD_photo_body_sub_T-B_overlay9-4, .FD_photo_body_sub_T-B_overlay9-5, .FD_photo_body_sub_T-B_overlay9-6,
+.FD_photo_body_sub_T-B_overlay10-1, .FD_photo_body_sub_T-B_overlay10-2, .FD_photo_body_sub_T-B_overlay10-3, 
+.FD_photo_body_sub_T-B_overlay10-4, .FD_photo_body_sub_T-B_overlay10-5, .FD_photo_body_sub_T-B_overlay10-6 {
     width: 7%;
     height: 30%;
     margin-left: .7rem;
     font-size: 1.5rem;
 }
 
-.price_desc_body_sub_T-B_overlay1, .price_desc_body_sub_T-B_overlay2, .price_desc_body_sub_T-B_overlay3, .price_desc_body_sub_T-B_overlay4, .price_desc_body_sub_T-B_overlay5, .price_desc_body_sub_T-B_overlay6, .price_desc_body_sub_T-B_overlay7, .price_desc_body_sub_T-B_overlay8, .price_desc_body_sub_T-B_overlay9, .price_desc_body_sub_T-B_overlay10  {
+.price_desc_body_sub_T-B_overlay1, .price_desc_body_sub_T-B_overlay2, .price_desc_body_sub_T-B_overlay3, .price_desc_body_sub_T-B_overlay4, 
+.price_desc_body_sub_T-B_overlay5, .price_desc_body_sub_T-B_overlay6, 
+.price_desc_body_sub_T-B_overlay7, .price_desc_body_sub_T-B_overlay8, .price_desc_body_sub_T-B_overlay9, .price_desc_body_sub_T-B_overlay10  {
     width: 100%;
     height: 17%;
     font-size: 1.2rem;
 }
 
-.writing_text_desc_body_sub_T-B_overlay1, .writing_text_desc_body_sub_T-B_overlay2, .writing_text_desc_body_sub_T-B_overlay3, .writing_text_desc_body_sub_T-B_overlay4, .writing_text_desc_body_sub_T-B_overlay5, .writing_text_desc_body_sub_T-B_overlay6, .writing_text_desc_body_sub_T-B_overlay7, .writing_text_desc_body_sub_T-B_overlay8, .writing_text_desc_body_sub_T-B_overlay9, .writing_text_desc_body_sub_T-B_overlay10  {
+.writing_text_desc_body_sub_T-B_overlay1, .writing_text_desc_body_sub_T-B_overlay2, .writing_text_desc_body_sub_T-B_overlay3, 
+.writing_text_desc_body_sub_T-B_overlay4, .writing_text_desc_body_sub_T-B_overlay5, 
+.writing_text_desc_body_sub_T-B_overlay6, .writing_text_desc_body_sub_T-B_overlay7, 
+.writing_text_desc_body_sub_T-B_overlay8, .writing_text_desc_body_sub_T-B_overlay9, .writing_text_desc_body_sub_T-B_overlay10  {
     width: 90%;
     height: 85%;
     font-size: 1rem;
