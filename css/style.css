@@ -542,3 +542,39 @@ footer a {
   position: relative;
   width: 100%;
 }
+/* Mentions légales */
+
+#mentleg p{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.mlvideo-background {
+  height: 100%;
+}
+
+#mlvideo {
+  height: 100vh;
+  width: 100vw;
+  object-fit: cover;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: -12;
+  opacity: 0.4;
+}
+
+.mentlega {
+  background: url(../Vidéo\ Agence\ Immo\ Luxe.mp4);
+  color: #062540;
+  z-index: 100;
+  font-family: "Kugile", serif;
+  font-weight: 600;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
